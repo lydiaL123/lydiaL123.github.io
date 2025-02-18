@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  Quant:
+  teaching:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _quant
+  # _teaching
   - scope:
       path: ""
-      type: Quant
+      type: teaching
     values:
       layout: single
       author_profile: true
