@@ -71,7 +71,7 @@ author_profile: true
   .publication-image {
     flex: none;
     margin-right: 0;
-    margin-bottom: 15px;
+    margin-bottom: 1px;
     text-align: center;
   }
   
@@ -91,11 +91,15 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
   </div>
   <div class="publication-content">
     <div class="publication-title">Leveraging unsupervised learning for cost-effective visual anomaly detection</div>
+    <div class="publication-authors">Pengsong Zhang, Xiang Hu, Guowei Huang, Yang Qi, Heng Zhang, Xiuxu Li, Jiaxing Song, Jiabin Luo, Yijiang Li, Shuo Yin, Chengxiao Dai, Eric Hanchen Jiang, Xiaoyan Zhou, Zhenfei Yin, Boqin Yuan, Jing Dong, Guinan Su, Guanren Qiao, Haiming Tang, Anghong Du, Lili Pan, Zhenzheng Lan, Xinyu Liu</div>
+    <div class="publication-venue"></div>
     <div class="publication-links">
-      <a href="[https://arxiv.org/abs/2508.15126](https://digital-library.theiet.org/doi/abs/10.1049/icp.2024.3491)" target="_blank">arXiv</a>
+      <a href="https://arxiv.org/pdf/2508.15126" target="_blank">PDF</a>
+      <a href="https://arxiv.org/abs/2508.15126" target="_blank">arXiv</a>
     </div>
   </div>
 </div>
+
 
 <!-- Template for additional publications - copy this structure for each paper -->
 <!--
