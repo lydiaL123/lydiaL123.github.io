@@ -10,7 +10,7 @@ redirect_from:
 
 Yunbo is a PhD candidate at the University of Cambridge focusing on unifying data understanding and data generation through latent-space modeling with Diffusion-based Generative Models (like DLMs). His work develops principled frameworks that bridge representation learning and controllable generation across heterogeneous data regimes: discrete (natural language), mixed-type tabular, structured relational/graph data, and emerging multimodal combinations. A central theme is designing architectures and training objectives that faithfully capture semantics, uncertainty, structure, and cross-domain correspondences while remaining computationally and statistically efficient.
 
-Before this, Yunbo completed a MPhil's degree in Engineering Department at the University of Cambridge, where his research focused on a differential privacy-based personalized clustering federated learning method. Prior to that, he earned a First-Class Honours degree in Engineering from the University of Birmingham, with his undergraduate thesis exploring the application of deep reinforcement learning algorithms for autonomous robotic dismantling tasks.
+Before this, Yunbo completed a MPhil's degree in Engineering Department at the University of Cambridge, where his research focused on a DP-based personalized clustering federated learning method. Prior to that, he earned a First-Class Honours degree in Engineering from the University of Birmingham, with his undergraduate thesis exploring the application of deep reinforcement learning algorithms for autonomous robotic dismantling tasks.
 
 ## News
 
