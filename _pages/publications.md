@@ -81,7 +81,7 @@ author_profile: true
 }
 </style>
 
-You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=OL_fj-YAAAAJ&hl=en) and [DBLP](https://dblp.org).
+You can also find all my articles on [Google Scholar](https://scholar.google.com/citations?user=OL_fj-YAAAAJ&hl=en).
 
 ## Publications
 
@@ -91,7 +91,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
   </div>
   <div class="publication-content">
     <div class="publication-title">Leveraging unsupervised learning for cost-effective visual anomaly detection</div>
-    <div class="publication-authors">Pengsong Zhang, Xiang Hu, Guowei Huang, Yang Qi, Heng Zhang, Xiuxu Li, Jiaxing Song, Jiabin Luo, Yijiang Li, Shuo Yin, Chengxiao Dai, Eric Hanchen Jiang, Xiaoyan Zhou, Zhenfei Yin, Boqin Yuan, Jing Dong, Guinan Su, Guanren Qiao, Haiming Tang, Anghong Du, Lili Pan, Zhenzheng Lan, Xinyu Liu</div>
+    <div class="publication-authors">Yunbo Long, Zhengyang Ling, Sam Brook, Duncan McFarlane, Alexandra Brintrup</div>
     <div class="publication-venue">IET Conference Proceedings CP885 2024 (11), 95-101</div>
     <div class="publication-links">
       <a href="[https://arxiv.org/pdf/2508.15126](https://digital-library.theiet.org/doi/pdf/10.1049/icp.2024.3491)" target="_blank">PDF</a>
