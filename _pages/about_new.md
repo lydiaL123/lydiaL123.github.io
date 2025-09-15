@@ -47,7 +47,7 @@ Before this, Yunbo completed a MPhil's degree in Engineering Department at the U
 ### Journal Reviewers
 - IEEE Transactions on Knowledge and Data Engineering (TKDE)
 - IEEE Transactions on Mobile Computing (TMC)
-- IEEE Transactions on Information Forensics & Security (TIFC)
+- IEEE Transactions on Information Forensics & Security (TIFS)
 
 ### Conference Reviewers
 - AAAI 2025
