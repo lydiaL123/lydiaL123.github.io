@@ -16,8 +16,6 @@ Before this, Yunbo completed a MPhil's degree in Engineering Department at the U
 
 - **2025.9**: EvoEmo: Towards Evolved Emotional Policies for LLM Agents in Multi-Turn Negotiation is under review ⭐️⭐️⭐️
 
-- **2025.9**: EQ-Knight: A Memory-Augmented LLM Agent for Strategic Affective Gaming in Debt Recovery is on arXiv 🚀🚀
-
 - **2025.7**: LLM-TabLogic: Preserving Inter-Column Logical Relationships in Synthetic Tabular Data via Prompt-Guided Latent Diffusion  under review ⭐️⭐️⭐️
 
 - **2025.6**: Efficient and privacy-preserved link prediction via condensed graphs published in Expert Systems with Applications 🎉🎉🎉
@@ -25,6 +23,8 @@ Before this, Yunbo completed a MPhil's degree in Engineering Department at the U
 - **2025.5**: Random Walk Guided Hyperbolic Graph Distillation (Y Long, L Xu, S Schoepf, A Brintrup) is on arXiv 🚀🚀
 
 - **2025.5**: Haplo-caller: A deep learning method for haplotype identification from mixed clonal samples is published in VeriXiv 🎉
+
+- **2025.4**: EQ-Knight: A Memory-Augmented LLM Agent for Strategic Affective Gaming in Debt Recovery is on arXiv 🚀🚀
 
 - **2025.4**: PA-CFL: Privacy-Adaptive Clustered Federated Learning for Transformer-Based Sales Forecasting on Heterogeneous Retail Data is under review ⭐️
 
