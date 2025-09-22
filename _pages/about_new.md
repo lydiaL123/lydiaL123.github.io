@@ -48,10 +48,13 @@ Before this, Yunbo completed a MPhil's degree in Engineering Department at the U
 - IEEE Transactions on Knowledge and Data Engineering (TKDE)
 - IEEE Transactions on Mobile Computing (TMC)
 - IEEE Transactions on Information Forensics & Security (TIFS)
+- IEEE Transactions on Systems, Man and Cybernetics (TSMC)
 
 ### Conference Reviewers
-- AAAI 2025
-- NeurIPS 2025
+- NeurIPS
+- AAAI
+- ICLR
+
 
 ## Contact
 - **Address**: Queens’ College, Silver St, CB3 9ET
