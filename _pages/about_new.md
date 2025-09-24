@@ -49,6 +49,7 @@ Before this, Yunbo completed a MPhil's degree in Engineering Department at the U
 - IEEE Transactions on Mobile Computing (TMC)
 - IEEE Transactions on Information Forensics & Security (TIFS)
 - IEEE Transactions on Systems, Man and Cybernetics (TSMC)
+- IEEE Transactions on Fuzzy System (TFS)
 
 ### Conference Reviewers
 - NeurIPS
