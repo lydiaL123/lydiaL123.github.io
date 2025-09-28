@@ -45,6 +45,7 @@ Before this, Yunbo completed a MPhil's degree in Engineering Department at the U
 
 ## Services
 ### Journal Reviewers
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Transactions on Knowledge and Data Engineering (TKDE)
 - IEEE Transactions on Mobile Computing (TMC)
 - IEEE Transactions on Information Forensics & Security (TIFS)
