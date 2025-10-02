@@ -48,7 +48,7 @@ Before this, Yunbo completed a MPhil's degree in Engineering Department at the U
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Transactions on Knowledge and Data Engineering (TKDE)
 - IEEE Transactions on Information Forensics & Security (TIFS)
-- IEEE Transactions on Dependable and Secure Computing
+- IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Transactions on Mobile Computing (TMC)
 - IEEE Transactions on Systems, Man and Cybernetics (TSMC)
 - IEEE Transactions on Fuzzy System (TFS)
