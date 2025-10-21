@@ -14,17 +14,23 @@ Before this, Yunbo completed a MPhil's degree in Engineering Department at the U
 
 ## News
 
-- **2025.9**: EvoEmo: Towards Evolved Emotional Policies for LLM Agents in Multi-Turn Negotiation is under review ⭐️⭐️⭐️
+- **2025.10**: EvoEmo: Towards Evolved Emotional Policies for LLM Agents in Multi-Turn Negotiation is under review ⭐️⭐️⭐️
+  
+- **2025.10**: EmoDebt: Bayesian-Optimized Emotional Intelligence for Strategic Agent-to-Agent Debt Recovery is under review ⭐️⭐️⭐️
 
-- **2025.7**: LLM-TabLogic: Preserving Inter-Column Logical Relationships in Synthetic Tabular Data via Prompt-Guided Latent Diffusion  under review ⭐️⭐️⭐️
+- **2025.9**: EQ-Negotiator: Emotion Policing Personas for Anti-Manipulation in Credit Collection Dialogues is under review ⭐️⭐️⭐️
+
+- **2025.9**: ExpoTab: One-Step Mixed-Type Tabular Data Generation using Manifold Learning is under review ⭐️⭐️⭐️
+ 
+- **2025.8**: TopologicalFederatedClusteringviaGravitationalPotentialFieldsunder Local Differential Privacy is under review ⭐️⭐️⭐️
+
+- **2025.7**: LLM-TabLogic: Preserving Inter-Column Logical Relationships in Synthetic Tabular Data via Prompt-Guided Latent Diffusion is under review ⭐️⭐️⭐️
 
 - **2025.6**: Efficient and privacy-preserved link prediction via condensed graphs published in Expert Systems with Applications 🎉🎉🎉
 
 - **2025.5**: Random Walk Guided Hyperbolic Graph Distillation (Y Long, L Xu, S Schoepf, A Brintrup) is on arXiv 🚀🚀
 
 - **2025.5**: Haplo-caller: A deep learning method for haplotype identification from mixed clonal samples is published in VeriXiv 🎉
-
-- **2025.4**: EQ-Knight: A Memory-Augmented LLM Agent for Strategic Affective Gaming in Debt Recovery is on arXiv 🚀🚀
 
 - **2025.4**: PA-CFL: Privacy-Adaptive Clustered Federated Learning for Transformer-Based Sales Forecasting on Heterogeneous Retail Data is under review ⭐️
 
@@ -33,8 +39,6 @@ Before this, Yunbo completed a MPhil's degree in Engineering Department at the U
 - **2025.1**: Leveraging synthetic data to tackle machine learning challenges in supply chains: challenges, methods, applications, and research opportunities is accepted in IJPR 🎉🎉
 
 - **2024.10**: Leveraging unsupervised learning for cost-effective visual anomaly detection is accepted! 🎉
-
-
 
 
 
