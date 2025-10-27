@@ -49,14 +49,14 @@ Before this, Yunbo completed a MPhil's degree in Engineering Department at the U
 
 ## Services
 ### Journal Reviewer(2025）
-- IEEE Transactions on Neural Networks and Learning Systems (TNNLS) X2
-- IEEE Transactions on Knowledge and Data Engineering (TKDE) X3
-- IEEE Transactions on Information Forensics & Security (TIFS) X1
-- IEEE Transactions on Dependable and Secure Computing (TDSC) X2
-- IEEE Transactions on Mobile Computing (TMC) X2
-- IEEE Transactions on Systems, Man and Cybernetics (TSMC) X1
-- IEEE Transactions on Fuzzy System (TFS) X1
-- ACM Transactions on Knowledge Discovery from Data (TKDD) X1
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS) x2
+- IEEE Transactions on Knowledge and Data Engineering (TKDE) x3
+- IEEE Transactions on Information Forensics & Security (TIFS) x1
+- IEEE Transactions on Dependable and Secure Computing (TDSC) x2
+- IEEE Transactions on Mobile Computing (TMC) x2
+- IEEE Transactions on Systems, Man and Cybernetics (TSMC) x1
+- IEEE Transactions on Fuzzy System (TFS) x1
+- ACM Transactions on Knowledge Discovery from Data (TKDD) x1
 
 ### Conference Reviewer(2025）
 - NeurIPS
