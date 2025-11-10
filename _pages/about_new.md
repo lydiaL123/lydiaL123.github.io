@@ -17,7 +17,6 @@ Previously, Yunbo completed an MPhil in Engineering at the University of Cambrid
 - **November 2025**: *EQ-Negotiator: Dynamic Emotional Personas Empower Small Language Models for Edge-Deployable Credit Negotiation* submitted for review 📄
 - **October 2025**: *EvoEmo: Towards Evolved Emotional Policies for LLM Agents in Multi-Turn Negotiation* submitted for review 🚀
 - **October 2025**: *EmoDebt: Bayesian-Optimized Emotional Intelligence for Strategic Agent-to-Agent Debt Recovery* submitted for review 🚀
-- **September 2025**: *EQ-Negotiator: Emotion Policing Personas for Anti-Manipulation in Credit Collection Dialogues* submitted for review 🚀
 - **September 2025**: *ExpoTab: One-Step Mixed-Type Tabular Data Generation using Manifold Learning* submitted for review 🚀
 - **August 2025**: *Topological Federated Clustering via Gravitational Potential Fields under Local Differential Privacy* submitted for review 🚀
 - **July 2025**: *LLM-TabLogic: Preserving Inter-Column Logical Relationships in Synthetic Tabular Data via Prompt-Guided Latent Diffusion* submitted for review 📄
