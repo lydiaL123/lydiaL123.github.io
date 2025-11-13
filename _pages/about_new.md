@@ -18,7 +18,6 @@ Previously, Yunbo completed an MPhil in Engineering at the University of Cambrid
 - **October 2025**: *EvoEmo: Towards Evolved Emotional Policies for LLM Agents in Multi-Turn Negotiation* submitted for review 🚀
 - **October 2025**: *EmoDebt: Bayesian-Optimized Emotional Intelligence for Strategic Agent-to-Agent Debt Recovery* submitted for review 🚀
 - **September 2025**: *ExpoTab: One-Step Mixed-Type Tabular Data Generation using Manifold Learning* submitted for review 🚀
-- **August 2025**: *Topological Federated Clustering via Gravitational Potential Fields under Local Differential Privacy* submitted for review 🚀
 - **July 2025**: *LLM-TabLogic: Preserving Inter-Column Logical Relationships in Synthetic Tabular Data via Prompt-Guided Latent Diffusion* submitted for review 📄
 - **June 2025**: *Efficient and privacy-preserved link prediction via condensed graphs* published in **Expert Systems with Applications** 🎉
 - **May 2025**: *Random Walk Guided Hyperbolic Graph Distillation* (Y Long, L Xu, S Schoepf, A Brintrup) posted on **arXiv** 📄
