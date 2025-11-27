@@ -35,8 +35,8 @@ Previously, Yunbo completed an MPhil in Engineering at the University of Cambrid
 
 ### Journal Reviewer (2025)
 - 🏷️ IEEE Transactions on Neural Networks and Learning Systems (TNNLS) ×3
-- 🏷️ IEEE Transactions on Knowledge and Data Engineering (TKDE) ×3  
-- 🏷️ IEEE Transactions on Information Forensics & Security (TIFS) ×1
+- 🏷️ IEEE Transactions on Knowledge and Data Engineering (TKDE) ×4  
+- 🏷️ IEEE Transactions on Information Forensics & Security (TIFS) ×2
 - 🏷️ IEEE Transactions on Dependable and Secure Computing (TDSC) ×2
 - 🏷️ IEEE Transactions on Mobile Computing (TMC) ×2
 - 🏷️ IEEE Transactions on Systems, Man and Cybernetics (TSMC) ×1
