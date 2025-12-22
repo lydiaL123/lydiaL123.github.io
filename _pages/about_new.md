@@ -13,6 +13,7 @@ Yunbo is a PhD candidate at the University of Cambridge focusing on unifying dat
 Previously, Yunbo completed an MPhil in Engineering at the University of Cambridge, where his research focused on differentially private personalized clustering methods for federated learning. He earned a First-Class Honours degree in Engineering from the University of Birmingham, with his undergraduate thesis exploring deep reinforcement learning applications for autonomous robotic dismantling tasks.
 
 ## 📢News
+- **December 2025**: *EmoDebt: Bayesian-Optimized Emotional Intelligence for Strategic Agent-to-Agent Debt Recovery* accepted at **AAMASS Main Track 2026** 🎉🎉🎉
 - **November 2025**: *Topological Federated Clustering via Gravitational Potential Fields under Local Differential Privacy* accepted at **AAAI Main Track 2026** 🎉🎉🎉
 - **November 2025**: *EQ-Negotiator: Dynamic Emotional Personas Empower Small Language Models for Edge-Deployable Credit Negotiation* accepted at **Neurips@PersonaLLM 2025** 🎉🎉🎉
 - **October 2025**: *EvoEmo: Towards Evolved Emotional Policies for LLM Agents in Multi-Turn Negotiation* submitted for review 🚀
