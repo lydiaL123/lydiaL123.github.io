@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
   - /CV
-redirect_to: https://www.dropbox.com/scl/fi/pz354pc9l060m3xw4vze8/Yunbo_Long_ai.pdf?rlkey=ubp03zgnt5d5ar1ym7h0dxd8k&st=g4jpiztj&dl=0
+redirect_to: https://www.dropbox.com/scl/fi/gote3o1m0jh7e7mva30uo/YL_CV26.pdf?rlkey=dwy72se8dwaom7wrby1esntj3&st=5e05u9zi&dl=0
 ---
 
 {% include base_path %}
