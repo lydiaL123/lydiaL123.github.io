@@ -51,12 +51,13 @@ Selected Work
   <div><strong>TANGO: Causal Latent Memory for Vision-Language GUI Agents</strong><br><i>Ongoing research</i><br>Matched latent-KV interventions and signed causal memory transport for delayed GUI decisions.<div class="pub-meta-row"><span class="pub-venue">Research project</span><span class="pub-links"><a href="https://github.com/Yunbo-max/trajflow-kv"><em>[code]</em></a></span></div></div>
 </div></div>
 
-Experience & Education
+Experience
 ---------------
 <div class="experience-container">
-  <div class="experience-card"><div class="experience-logo" aria-hidden="true" style="display:grid;place-items:center;background:#eef3fa;font-weight:800;">CAM</div><div class="experience-info"><strong>University of Cambridge</strong><br>PhD Student</div></div>
-  <div class="experience-card"><div class="experience-logo" aria-hidden="true" style="display:grid;place-items:center;background:#eef3fa;font-weight:800;">CAM</div><div class="experience-info"><strong>University of Cambridge</strong><br>MPhil in Engineering</div></div>
-  <div class="experience-card"><div class="experience-logo" aria-hidden="true" style="display:grid;place-items:center;background:#f3f0f8;font-weight:800;">UoB</div><div class="experience-info"><strong>University of Birmingham</strong><br>B.Eng., First-Class Honours</div></div>
+  <div class="experience-card"><img class="experience-logo" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Coat_of_Arms_of_the_University_of_Cambridge.svg" alt="University of Cambridge crest"><div class="experience-info"><strong>University of Cambridge</strong><br>2022 – 2026<br>MPhil &amp; PhD, Department of Engineering</div></div>
+  <div class="experience-card"><img class="experience-logo" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Shield_of_the_University_of_Birmingham.svg" alt="University of Birmingham crest"><div class="experience-info"><strong>University of Birmingham</strong><br>2020 – 2022<br>B.Eng., First-Class Honours · Robotics Lab</div></div>
+  <div class="experience-card"><img class="experience-logo" src="https://www.whut.edu.cn/material/images/logo.svg" alt="Wuhan University of Technology logo"><div class="experience-info"><strong>Wuhan University of Technology</strong><br>2018 – 2020</div></div>
+  <div class="experience-card"><img class="experience-logo" src="https://www.shenzhong.net/pages/common/images/logo.png" alt="Shenzhen Middle School logo"><div class="experience-info"><strong>Shenzhen Middle School</strong><br>2015 – 2018</div></div>
 </div>
 
 Awards & Service
