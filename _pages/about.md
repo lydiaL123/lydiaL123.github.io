@@ -16,10 +16,13 @@ I am a PhD student at the University of Cambridge, supervised by Prof. Alexandra
 News
 ---------------
 <section class="profile-list-section profile-list-section--news" aria-label="Latest news"><ul class="profile-list">
-  <li class="profile-list__item"><time class="profile-list__date" datetime="2026">2026</time><span class="profile-list__content"><span class="profile-list__title">EmoDebt accepted to AAMAS 2026</span><span class="profile-list__meta">Main Track</span></span></li>
-  <li class="profile-list__item"><time class="profile-list__date" datetime="2026">2026</time><span class="profile-list__content"><span class="profile-list__title">Topological Federated Clustering accepted to AAAI 2026</span><span class="profile-list__meta">Main Track</span></span></li>
-  <li class="profile-list__item"><time class="profile-list__date" datetime="2025">2025</time><span class="profile-list__content"><span class="profile-list__title">LLM-TabLogic and ExpoTab released</span><span class="profile-list__meta">Latent diffusion for structured data</span></span></li>
-  <li class="profile-list__item"><time class="profile-list__date" datetime="2025">2025</time><span class="profile-list__content"><span class="profile-list__title">New graph-distillation and synthetic-data research</span><span class="profile-list__meta">Papers and preprints</span></span></li>
+  <li class="profile-list__item"><time class="profile-list__date" datetime="2025-12">Dec 2025</time><span class="profile-list__content"><span class="profile-list__title">EmoDebt accepted to AAMAS 2026 Main Track 🎉</span></span></li>
+  <li class="profile-list__item"><time class="profile-list__date" datetime="2025-11">Nov 2025</time><span class="profile-list__content"><span class="profile-list__title">Topological Federated Clustering accepted to AAAI 2026 Main Track 🎉</span></span></li>
+  <li class="profile-list__item"><time class="profile-list__date" datetime="2025-11">Nov 2025</time><span class="profile-list__content"><span class="profile-list__title">EQ-Negotiator accepted to NeurIPS 2025 PersonaLLM Workshop 🎉</span></span></li>
+  <li class="profile-list__item"><time class="profile-list__date" datetime="2025-06">Jun 2025</time><span class="profile-list__content"><span class="profile-list__title">Efficient and Privacy-Preserved Link Prediction published in Expert Systems with Applications 🎉</span></span></li>
+  <li class="profile-list__item"><time class="profile-list__date" datetime="2025-03">Mar 2025</time><span class="profile-list__content"><span class="profile-list__title">Evaluating Inter-Column Logical Relationships accepted as an ICLR 2025 Tiny Paper 🎉</span></span></li>
+  <li class="profile-list__item"><time class="profile-list__date" datetime="2025-01">Jan 2025</time><span class="profile-list__content"><span class="profile-list__title">Leveraging Synthetic Data to Tackle Machine Learning Challenges in Supply Chains accepted in IJPR 🎉</span></span></li>
+  <li class="profile-list__item"><time class="profile-list__date" datetime="2024-10">Oct 2024</time><span class="profile-list__content"><span class="profile-list__title">Leveraging Unsupervised Learning for Cost-Effective Visual Anomaly Detection accepted 🎉</span></span></li>
 </ul></section>
 
 Research
