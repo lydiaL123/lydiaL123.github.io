@@ -61,8 +61,8 @@ Publications
 </div></div>
 
 <div class="publication-card" data-topics="llm-agents rl-agents" data-date="2025-09-01"><div class="publication-card__layout">
-  <img src="/images/publications/main/emodebt.webp" alt="EvoEmo overview" width="200" height="120" loading="lazy" decoding="async" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
-  <div><strong>EvoEmo</strong><br><i>Yunbo Long, Liming Xu, B. Lucas, <span class="self-author">Yuhan Liu</span>, et al.</i><br>Evolved emotional policies for multi-turn negotiation.<div class="pub-meta-row"><span class="pub-venue">AAMAS 2026 · Extended Abstract</span><span class="pub-links"><a href="https://arxiv.org/abs/2509.04310"><em>[arXiv]</em></a></span></div></div>
+  <img src="/images/publications/main/evoemo.png" alt="EvoEmo paper first page" width="200" height="120" loading="lazy" decoding="async" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
+  <div><strong>EvoEmo</strong><br><i>Yunbo Long, Liming Xu, Lukas Beckenbauer, <span class="self-author">Yuhan Liu</span>, Alexandra Brintrup</i><br>Evolved emotional policies for adversarial LLM agents in multi-turn price negotiation.<div class="pub-meta-row"><span class="pub-venue">AAMAS 2026 · Extended Abstract</span><span class="pub-links"><a href="https://arxiv.org/abs/2509.04310"><em>[arXiv]</em></a></span></div></div>
 </div></div>
 
 <script src="/assets/js/show_publications.js"></script>
