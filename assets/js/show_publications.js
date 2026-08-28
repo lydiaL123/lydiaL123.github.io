@@ -1,6 +1,7 @@
 const PUBLICATION_CATEGORIES = {
   'llm-agents': 'LLM Agents',
   'rl-agents': 'RL Agents',
+  vlm: 'VLM',
   'data-generation': 'Data Generation',
   'graph-learning': 'Graph Learning'
 };

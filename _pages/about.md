@@ -40,6 +40,7 @@ Publications
   <button class="pub-button pub-button--all active" type="button" data-filter="all" aria-pressed="true">All</button>
   <button class="pub-button pub-button--llm-agents" type="button" data-filter="llm-agents" aria-pressed="false">LLM Agents</button>
   <button class="pub-button pub-button--rl-agents" type="button" data-filter="rl-agents" aria-pressed="false">RL Agents</button>
+  <button class="pub-button pub-button--vlm" type="button" data-filter="vlm" aria-pressed="false">VLM</button>
   <button class="pub-button pub-button--data-generation" type="button" data-filter="data-generation" aria-pressed="false">Data Generation</button>
   <button class="pub-button pub-button--graph-learning" type="button" data-filter="graph-learning" aria-pressed="false">Graph Learning</button>
   <span class="pub-legend-group" role="group" aria-label="Publication distinction filters">
@@ -47,39 +48,39 @@ Publications
   </span>
 </div>
 
-<div class="publication-card featured first-author" data-topics="llm-agents rl-agents" data-date="2026-08-01"><div class="publication-card__layout">
+<div class="publication-card first-author" data-topics="llm-agents rl-agents" data-date="2026-08-01"><div class="publication-card__layout">
   <img src="/images/publications/main/emodistill.webp" alt="EmoDistill overview" width="200" height="120" fetchpriority="high" decoding="async" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
-  <div><strong>EmoDistill</strong><br><i><span class="self-author">Yunbo Long</span> et al.</i><br>Offline emotion-skill distillation for adversarial negotiation agents.<div class="pub-meta-row"><span class="pub-venue">EMNLP 2026 · LLM Agents Track</span><span class="pub-links"><a href="https://arxiv.org/abs/2605.26785"><em>[arXiv]</em></a></span></div></div>
+  <div><strong>EmoDistill</strong><br><i><span class="self-author">Yunbo Long</span>, Haolang Zhao, Lukas Beckenbauer, Liming Xu, Alexandra Brintrup</i><br>Offline emotion-skill distillation for adversarial negotiation agents.<div class="pub-meta-row"><span class="pub-venue">EMNLP 2026 · LLM Agents Track</span><span class="pub-links"><a href="https://arxiv.org/abs/2605.26785"><em>[arXiv]</em></a></span></div></div>
 </div></div>
 
-<div class="publication-card featured" data-topics="llm-agents" data-date="2026-08-01"><div class="publication-card__layout">
+<div class="publication-card" data-topics="llm-agents" data-date="2026-08-01"><div class="publication-card__layout">
   <img src="/images/publications/main/veritrace.webp" alt="VeriTrace overview" width="200" height="120" loading="lazy" decoding="async" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
-  <div><strong>VeriTrace</strong><br><i>Hao Zhao, <span class="self-author">Yunbo Long</span> et al.</i><br>Evolving cognitive graphs for reliable deep-research agents.<div class="pub-meta-row"><span class="pub-venue">EMNLP 2026 · LLM Agents Track</span><span class="pub-links"><a href="https://arxiv.org/abs/2605.26081"><em>[arXiv]</em></a></span></div></div>
+  <div><strong>VeriTrace</strong><br><i>Haolang Zhao, <span class="self-author">Yunbo Long</span>, Lukas Beckenbauer, Alexandra Brintrup</i><br>Evolving cognitive graphs for reliable deep-research agents.<div class="pub-meta-row"><span class="pub-venue">EMNLP 2026 · LLM Agents Track</span><span class="pub-links"><a href="https://arxiv.org/abs/2605.26081"><em>[arXiv]</em></a></span></div></div>
 </div></div>
 
-<div class="publication-card featured first-author" data-topics="llm-agents" data-date="2026-04-01"><div class="publication-card__layout">
+<div class="publication-card first-author" data-topics="llm-agents rl-agents" data-date="2026-04-01"><div class="publication-card__layout">
   <img src="/images/publications/main/emomas.webp" alt="EmoMAS overview" width="200" height="120" loading="lazy" decoding="async" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
-  <div><strong>EmoMAS</strong><br><i><span class="self-author">Yunbo Long</span> et al.</i><br>Bayesian orchestration for emotion-aware edge negotiation agents.<div class="pub-meta-row"><span class="pub-venue">ACL 2026 · LLM Agents Track</span><span class="pub-links"><a href="https://arxiv.org/abs/2604.07003"><em>[arXiv]</em></a></span></div></div>
+  <div><strong>EmoMAS</strong><br><i><span class="self-author">Yunbo Long</span>, Yuhan Liu, Liming Xu</i><br>Bayesian orchestration for emotion-aware edge negotiation agents.<div class="pub-meta-row"><span class="pub-venue">ACL 2026 · LLM Agents Track</span><span class="pub-links"><a href="https://arxiv.org/abs/2604.07003"><em>[arXiv]</em></a></span></div></div>
 </div></div>
 
-<div class="publication-card first-author" data-topics="llm-agents rl-agents" data-date="2025-12-01"><div class="publication-card__layout">
+<div class="publication-card first-author" data-topics="llm-agents" data-date="2025-12-01"><div class="publication-card__layout">
   <img src="/images/publications/main/emodebt.webp" alt="EmoDebt overview" width="200" height="120" loading="lazy" decoding="async" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
-  <div><strong>EmoDebt</strong><br><i><span class="self-author">Yunbo Long</span> et al.</i><br>Emotion-aware strategic reasoning for agent-to-agent debt recovery.<div class="pub-meta-row"><span class="pub-venue">AAMAS 2026 · Main Track</span><span class="pub-links"><a href="https://arxiv.org/abs/2503.21080"><em>[arXiv]</em></a></span></div></div>
+  <div><strong>EmoDebt</strong><br><i><span class="self-author">Yunbo Long</span>, Yuhan Liu, Liming Xu, Alexandra Brintrup</i><br>Emotion-aware strategic reasoning for agent-to-agent debt recovery.<div class="pub-meta-row"><span class="pub-venue">AAMAS 2026 · Main Track</span><span class="pub-links"><a href="https://arxiv.org/abs/2503.21080"><em>[arXiv]</em></a></span></div></div>
 </div></div>
 
 <div class="publication-card first-author" data-topics="graph-learning" data-date="2025-11-01"><div class="publication-card__layout">
   <img src="/images/publications/main/topofc.webp" alt="TopoFC overview" width="200" height="120" loading="lazy" decoding="async" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
-  <div><strong>TopoFC</strong><br><i><span class="self-author">Yunbo Long</span> et al.</i><br>One-shot private federated clustering with gravitational potential fields.<div class="pub-meta-row"><span class="pub-venue">AAAI 2026 · Main Track</span><span class="pub-links"><a href="https://arxiv.org/abs/2512.00849"><em>[arXiv]</em></a></span></div></div>
+  <div><strong>GFC</strong><br><i><span class="self-author">Yunbo Long</span>, Jiaquan Zhang, Xi Chen, Alexandra Brintrup</i><br>One-shot private federated clustering with gravitational potential fields.<div class="pub-meta-row"><span class="pub-venue">AAAI 2026 · Main Track</span><span class="pub-links"><a href="https://arxiv.org/abs/2512.00849"><em>[arXiv]</em></a></span></div></div>
 </div></div>
 
-<div class="publication-card first-author" data-topics="llm-agents rl-agents data-generation" data-date="2026-04-22"><div class="publication-card__layout">
+<div class="publication-card first-author" data-topics="data-generation" data-date="2026-04-22"><div class="publication-card__layout">
   <img src="/images/publications/main/tablm.webp" alt="TabLM post-training overview" width="200" height="120" loading="lazy" decoding="async" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
-  <div><strong>TabLM</strong><br><i><span class="self-author">Yunbo Long</span> et al.</i><br>Iterative reward-guided post-training for tabular language models.<div class="pub-meta-row"><span class="pub-venue">arXiv 2026</span><span class="pub-links"><a href="https://arxiv.org/abs/2604.18966"><em>[arXiv]</em></a></span></div></div>
+  <div><strong>TabGRAA</strong><br><i><span class="self-author">Yunbo Long</span>, Tejumade Afonja, Guangya Hao, Alexandra Brintrup, Mario Fritz</i><br>Iterative reward-guided post-training for tabular language models.<div class="pub-meta-row"><span class="pub-venue">arXiv 2026</span><span class="pub-links"><a href="https://arxiv.org/abs/2604.18966"><em>[arXiv]</em></a></span></div></div>
 </div></div>
 
-<div class="publication-card first-author" data-topics="llm-agents graph-learning" data-date="2026-05-31"><div class="publication-card__layout">
+<div class="publication-card first-author" data-topics="llm-agents" data-date="2026-05-31"><div class="publication-card__layout">
   <img src="/images/publications/main/helicase.webp" alt="Helicase architecture" width="200" height="120" loading="lazy" decoding="async" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
-  <div><strong>Helicase</strong><br><i><span class="self-author">Yunbo Long</span> et al.</i><br>Uncertainty-guided supply-chain knowledge graph construction with autonomous agents.<div class="pub-meta-row"><span class="pub-venue">arXiv 2026</span><span class="pub-links"><a href="https://arxiv.org/abs/2605.26835"><em>[arXiv]</em></a></span></div></div>
+  <div><strong>Helicase</strong><br><i><span class="self-author">Yunbo Long</span>, Haolang Zhao, Ge Zheng, Alexandra Brintrup</i><br>Uncertainty-guided supply-chain knowledge graph construction with autonomous agents.<div class="pub-meta-row"><span class="pub-venue">arXiv 2026</span><span class="pub-links"><a href="https://arxiv.org/abs/2605.26835"><em>[arXiv]</em></a></span></div></div>
 </div></div>
 
 <div class="publication-card first-author" data-topics="llm-agents" data-date="2026-03-31"><div class="publication-card__layout">
@@ -87,34 +88,34 @@ Publications
   <div><strong>AI-Supervisor</strong><br><i><span class="self-author">Yunbo Long</span></i><br>Autonomous research supervision through a persistent research world model.<div class="pub-meta-row"><span class="pub-venue">arXiv 2026</span><span class="pub-links"><a href="https://arxiv.org/abs/2603.24402"><em>[arXiv]</em></a></span></div></div>
 </div></div>
 
-<div class="publication-card first-author" data-topics="llm-agents data-generation graph-learning" data-date="2026-05-31"><div class="publication-card__layout">
+<div class="publication-card first-author" data-topics="data-generation" data-date="2026-05-31"><div class="publication-card__layout">
   <img src="/images/publications/main/tabkg.webp" alt="TabKG overview" width="200" height="120" loading="lazy" decoding="async" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
-  <div><strong>TabKG</strong><br><i><span class="self-author">Yunbo Long</span> et al.</i><br>Logically consistent synthetic tables through LLM-driven knowledge graphs.<div class="pub-meta-row"><span class="pub-venue">arXiv 2026</span><span class="pub-links"><a href="https://arxiv.org/abs/2605.26823"><em>[arXiv]</em></a></span></div></div>
+  <div><strong>TabKG</strong><br><i><span class="self-author">Yunbo Long</span>, Ge Zheng, Liming Xu, Alexandra Brintrup</i><br>Logically consistent synthetic tables through LLM-driven knowledge graphs.<div class="pub-meta-row"><span class="pub-venue">arXiv 2026</span><span class="pub-links"><a href="https://arxiv.org/abs/2605.26823"><em>[arXiv]</em></a></span></div></div>
 </div></div>
 
-<div class="publication-card" data-topics="llm-agents rl-agents" data-date="2026-05-27"><div class="publication-card__layout">
+<div class="publication-card" data-topics="llm-agents" data-date="2026-05-27"><div class="publication-card__layout">
   <img src="/images/publications/main/selfevolving.webp" alt="Self-Evolving Multi-Agent Systems overview" width="200" height="120" loading="lazy" decoding="async" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
-  <div><strong>Self-Evolving MAS</strong><br><i><span class="self-author">Yunbo Long</span> et al.</i><br>Decentralized memory for self-evolving multi-agent systems.<div class="pub-meta-row"><span class="pub-venue">arXiv 2026</span><span class="pub-links"><a href="https://arxiv.org/abs/2605.22721"><em>[arXiv]</em></a></span></div></div>
+  <div><strong>DecentMem</strong><br><i>Guangya Hao, <span class="self-author">Yunbo Long</span>, Zhuokai Zhao</i><br>Decentralized memory for self-evolving multi-agent systems.<div class="pub-meta-row"><span class="pub-venue">arXiv 2026</span><span class="pub-links"><a href="https://arxiv.org/abs/2605.22721"><em>[arXiv]</em></a></span></div></div>
 </div></div>
 
-<div class="publication-card" data-topics="llm-agents" data-date="2026-04-13"><div class="publication-card__layout">
+<div class="publication-card" data-topics="vlm" data-date="2026-04-13"><div class="publication-card__layout">
   <img src="/images/publications/main/visualsymbolic.webp" alt="Visual-to-symbolic inference overview" width="200" height="120" loading="lazy" decoding="async" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
-  <div><strong>Hidden in Plain Sight</strong><br><i>Peng Li et al., <span class="self-author">Yunbo Long</span></i><br>Visual-to-symbolic analytical solution inference from field visualizations.<div class="pub-meta-row"><span class="pub-venue">arXiv 2026</span><span class="pub-links"><a href="https://arxiv.org/abs/2604.08863"><em>[arXiv]</em></a></span></div></div>
+  <div><strong>ViSA-R2</strong><br><i>Pengze Li, Jiaquan Zhang, <span class="self-author">Yunbo Long</span>, Xinping Liu, Zhou Wenjie, Encheng Su, Zihang Zeng, Jiaqi Liu, Jiyao Liu, Junchi Yu, Lihao Liu, Philip Torr, Shixiang Tang, Aoran Wang, Xi Chen</i><br>Visual-to-symbolic analytical solution inference from field visualizations.<div class="pub-meta-row"><span class="pub-venue">arXiv 2026</span><span class="pub-links"><a href="https://arxiv.org/abs/2604.08863"><em>[arXiv]</em></a></span></div></div>
 </div></div>
 
-<div class="publication-card" data-topics="llm-agents rl-agents" data-date="2026-05-27"><div class="publication-card__layout">
+<div class="publication-card" data-topics="" data-date="2026-05-27"><div class="publication-card__layout">
   <img src="/images/publications/main/spd.webp" alt="SPD overview" width="200" height="120" loading="lazy" decoding="async" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
-  <div><strong>SPD</strong><br><i><span class="self-author">Yunbo Long</span> et al.</i><br>Capability-selective subspace projection for self-policy distillation.<div class="pub-meta-row"><span class="pub-venue">arXiv 2026</span><span class="pub-links"><a href="https://arxiv.org/abs/2605.22675"><em>[arXiv]</em></a></span></div></div>
+  <div><strong>SPD</strong><br><i>Guangya Hao, Yitong Shang, <span class="self-author">Yunbo Long</span>, Zhuokai Zhao, Hanxue Liang</i><br>Capability-selective subspace projection for self-policy distillation.<div class="pub-meta-row"><span class="pub-venue">arXiv 2026</span><span class="pub-links"><a href="https://arxiv.org/abs/2605.22675"><em>[arXiv]</em></a></span></div></div>
 </div></div>
 
 <div class="publication-card first-author" data-topics="graph-learning" data-date="2026-01-01"><div class="publication-card__layout">
   <img src="/images/publications/main/hydro.webp" alt="HyDRO+ overview" width="200" height="120" loading="lazy" decoding="async" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
-  <div><strong>HyDRO+</strong><br><i><span class="self-author">Yunbo Long</span> et al.</i><br>Efficient privacy-preserving link prediction through condensed graphs.<div class="pub-meta-row"><span class="pub-venue">Expert Systems with Applications, 2026</span><span class="pub-links"><a href="https://arxiv.org/abs/2503.12156"><em>[arXiv]</em></a></span></div></div>
+  <div><strong>HyDRO+</strong><br><i><span class="self-author">Yunbo Long</span>, Liming Xu, Alexandra Brintrup</i><br>Efficient privacy-preserving link prediction through condensed graphs.<div class="pub-meta-row"><span class="pub-venue">Expert Systems with Applications, 2026</span><span class="pub-links"><a href="https://arxiv.org/abs/2503.12156"><em>[arXiv]</em></a></span></div></div>
 </div></div>
 
 <div class="publication-card first-author" data-topics="" data-date="2024-09-25"><div class="publication-card__layout">
   <img src="/images/publications/main/anomaly.webp" alt="Visual anomaly detection" width="200" height="120" loading="lazy" decoding="async" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
-  <div><strong>Anomaly Detection</strong><br><i><span class="self-author">Yunbo Long</span> et al.</i><br>Cost-effective visual anomaly detection with unsupervised learning.<div class="pub-meta-row"><span class="pub-venue">IET Conference Proceedings, 2024</span><span class="pub-links"><a href="https://arxiv.org/abs/2409.15980"><em>[arXiv]</em></a></span></div></div>
+  <div><strong>Anomaly Detection</strong><br><i><span class="self-author">Yunbo Long</span>, Zhengyang Ling, Sam Brook, Duncan McFarlane, Alexandra Brintrup</i><br>Cost-effective visual anomaly detection with unsupervised learning.<div class="pub-meta-row"><span class="pub-venue">IET Conference Proceedings, 2024</span><span class="pub-links"><a href="https://arxiv.org/abs/2409.15980"><em>[arXiv]</em></a></span></div></div>
 </div></div>
 
 <script src="/assets/js/show_publications.js"></script>

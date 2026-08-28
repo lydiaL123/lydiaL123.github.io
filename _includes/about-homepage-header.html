@@ -111,6 +111,9 @@
     .pub-category-dot--graph-learning {
         background: #88b7a2;
     }
+    .pub-category-dot--vlm {
+        background: #d6a35f;
+    }
     .publication-card[hidden] {
         display: none;
     }
@@ -196,9 +199,11 @@
     .publication-card:hover {
         box-shadow: 0 8px 16px rgba(0,0,0,0.1);
     }
-    .publication-card.first-author:not(.featured) {
+    .publication-card.first-author {
         border-width: 1.83px;
         border-color: #e7b8ac;
+        background: #fffaf8;
+        box-shadow: 0 3px 8px rgba(202, 111, 111, 0.08);
     }
     .publication-card.featured {
         border-width: 1.83px;
@@ -372,6 +377,20 @@
     }
     .pub-button--graph-learning.active::before {
         background: #88b7a2;
+    }
+    .pub-button--vlm {
+        color: #9a713d;
+        border-color: rgba(154, 113, 61, 0.22);
+        background: rgba(253, 249, 241, 0.84);
+    }
+    .pub-button--vlm:hover,
+    .pub-button--vlm.active {
+        color: #815e31;
+        border-color: rgba(154, 113, 61, 0.36);
+        background: #faf2e4;
+    }
+    .pub-button--vlm.active::before {
+        background: #d6a35f;
     }
     .pub-legend-group {
         display: inline-flex;
