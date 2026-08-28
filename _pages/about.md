@@ -45,7 +45,7 @@ Publications
   <div><strong>EmoDistill</strong><br><i><span class="self-author">Yunbo Long</span>, Haolang Zhao, Lukas Beckenbauer, Liming Xu, Alexandra Brintrup</i><br>Offline emotion-skill distillation for adversarial negotiation agents.<div class="pub-meta-row"><span class="pub-venue">EMNLP 2026 · LLM Agents Track</span><span class="pub-links"><a href="https://arxiv.org/abs/2605.26785"><em>[arXiv]</em></a></span></div></div>
 </div></div>
 
-<div class="publication-card" data-topics="llm-agents" data-date="2026-08-01"><div class="publication-card__layout">
+<div class="publication-card first-author" data-topics="llm-agents" data-date="2026-08-01"><div class="publication-card__layout">
   <img src="/images/publications/main/veritrace.webp" alt="VeriTrace overview" width="200" height="120" loading="lazy" decoding="async" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
   <div><strong>VeriTrace</strong><br><i>Haolang Zhao<sup>*</sup>, <span class="self-author">Yunbo Long<sup>*</sup></span>, Lukas Beckenbauer, Alexandra Brintrup</i><br><span style="font-size:0.78rem;color:#777;">* Equal contribution.</span><br>Evolving cognitive graphs for reliable deep-research agents.<div class="pub-meta-row"><span class="pub-venue">EMNLP 2026 · LLM Agents Track</span><span class="pub-links"><a href="https://arxiv.org/abs/2605.26081"><em>[arXiv]</em></a></span></div></div>
 </div></div>
@@ -127,8 +127,8 @@ Experience
 <div class="experience-container">
   <div class="experience-card"><img class="experience-logo" src="/images/institutions/cambridge.svg" alt="University of Cambridge crest" loading="lazy" decoding="async"><div class="experience-info"><strong>University of Cambridge</strong><br>2022 – 2026<br>MPhil &amp; PhD, Department of Engineering</div></div>
   <div class="experience-card"><img class="experience-logo" src="/images/institutions/birmingham.svg" alt="University of Birmingham crest" loading="lazy" decoding="async"><div class="experience-info"><strong>University of Birmingham</strong><br>2020 – 2022<br>B.Eng., First-Class Honours · Research Assistant, Robotics Lab</div></div>
-  <div class="experience-card"><img class="experience-logo" src="/images/institutions/whut-crest.svg" alt="Wuhan University of Technology crest" loading="lazy" decoding="async" style="padding:5px;background:#234f7d;box-sizing:border-box;"><div class="experience-info"><strong>Wuhan University of Technology</strong><br>2018 – 2020<br>WUTE Member</div></div>
-  <div class="experience-card"><img class="experience-logo" src="/images/institutions/shenzhen-middle-school-crest.png" alt="Shenzhen Middle School crest" loading="lazy" decoding="async" style="padding:5px;background:#8f2638;box-sizing:border-box;"><div class="experience-info"><strong>Shenzhen Middle School</strong><br>2015 – 2018</div></div>
+  <div class="experience-card"><img class="experience-logo" src="/images/institutions/whut.webp" alt="Wuhan University of Technology crest" loading="lazy" decoding="async"><div class="experience-info"><strong>Wuhan University of Technology</strong><br>2018 – 2020<br>WUTE Member</div></div>
+  <div class="experience-card"><img class="experience-logo" src="/images/institutions/shenzhen-middle-school.webp" alt="Shenzhen Middle School crest" loading="lazy" decoding="async"><div class="experience-info"><strong>Shenzhen Middle School</strong><br>2015 – 2018</div></div>
 </div>
 
 Awards
