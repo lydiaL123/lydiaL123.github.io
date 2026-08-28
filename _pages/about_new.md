@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about-legacy/
 title: "About Me"
 excerpt: "About Me"
 author_profile: true
@@ -48,4 +48,3 @@ Previously, Yunbo completed an MPhil in Engineering at the University of Cambrid
 - 🎯 NeurIPS
 - 🎯 AAAI  
 - 🎯 ICLR
-

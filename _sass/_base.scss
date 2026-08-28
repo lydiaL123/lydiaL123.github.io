@@ -6,11 +6,10 @@ html {
   position: relative;
   min-height: 100%;
 }
-
 body {
   margin: 0;
-  padding: 0;
-  padding-bottom: 9em;
+  padding: $masthead-height 0 0;
+  padding-bottom: 4.75em;
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
