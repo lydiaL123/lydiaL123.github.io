@@ -30,7 +30,7 @@ Experience
   <div class="experience-card"><img class="experience-logo" src="/images/institutions/sgcib-linkedin.png" alt="Société Générale CIB logo" loading="lazy" decoding="async"><div class="experience-info"><strong>Société Générale CIB</strong><br>2024<br>Corporate Finance Analyst · Trade Commodity Finance</div></div>
   <div class="experience-card"><img class="experience-logo" src="/images/institutions/lseg.svg" alt="London Stock Exchange Group logo" loading="lazy" decoding="async"><div class="experience-info"><strong>London Stock Exchange Group</strong><br>2023<br>Business &amp; Economic Data Analyst</div></div>
   <div class="experience-card"><img class="experience-logo" src="/images/institutions/ubs.svg" alt="UBS logo" loading="lazy" decoding="async"><div class="experience-info"><strong>UBS Research Project</strong><br>Equity Research<br>China’s coffee industry and downstream providers</div></div>
-  <div class="experience-card"><img class="experience-logo" src="/images/institutions/toronto-seeklogo.png" alt="University of Toronto crest" loading="lazy" decoding="async"><div class="experience-info"><strong>Rotman Commerce · University of Toronto</strong><br>2019 – 2023<br>B.Com., Finance and Economics · GPA 3.96/4.00</div></div>
+  <div class="experience-card"><img class="experience-logo" src="/images/institutions/toronto-seeklogo.png" alt="University of Toronto crest" loading="lazy" decoding="async"><div class="experience-info"><strong>University of Toronto</strong><br>2019 – 2023<br>B.Com., Finance and Economics · GPA 3.96/4.00</div></div>
 </div>
 
 Publications
