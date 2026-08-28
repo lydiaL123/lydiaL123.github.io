@@ -34,7 +34,7 @@ Research
   <div class="experience-card"><div class="experience-logo" aria-hidden="true" style="display:grid;place-items:center;background:#eef7f2;font-size:1.6rem;">⌁</div><div class="experience-info"><strong>Intelligent Agents</strong><br>Multimodal GUI agents, causal latent memory, and long-horizon decision making.</div></div>
 </div>
 
-Selected Work
+Publication
 ---------------
 <div class="publication-card featured first-author"><div class="publication-card__layout">
   <img src="/images/publications/graph.png" alt="Graph learning research" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
@@ -60,12 +60,16 @@ Experience
   <div class="experience-card"><img class="experience-logo" src="https://www.shenzhong.net/pages/common/images/logo.png" alt="Shenzhen Middle School logo"><div class="experience-info"><strong>Shenzhen Middle School</strong><br>2015 – 2018</div></div>
 </div>
 
-Awards & Service
+Awards
 ---------------
-<section class="profile-list-section profile-list-section--awards" aria-label="Awards and academic service"><ul class="profile-list">
-  <li class="profile-list__item"><time class="profile-list__date">Award</time><span class="profile-list__content"><span class="profile-list__title">Queens' College PhD Scholarship</span><span class="profile-list__meta">University of Cambridge</span></span></li>
-  <li class="profile-list__item"><time class="profile-list__date">Award</time><span class="profile-list__content"><span class="profile-list__title">Conference Scholarship</span><span class="profile-list__meta">Department of Engineering</span></span></li>
-  <li class="profile-list__item"><time class="profile-list__date">Service</time><span class="profile-list__content"><span class="profile-list__title">Reviewer</span><span class="profile-list__meta">NeurIPS, ICLR, AAAI and leading IEEE/ACM journals</span></span></li>
+<section class="profile-list-section profile-list-section--awards" aria-label="Awards"><ul class="profile-list">
+  <li class="profile-list__item"><time class="profile-list__date">🏆</time><span class="profile-list__content"><span class="profile-list__title">Queens' College PhD Scholarship</span><span class="profile-list__meta">University of Cambridge</span></span></li>
+  <li class="profile-list__item"><time class="profile-list__date">🏆</time><span class="profile-list__content"><span class="profile-list__title">Conference Scholarship</span><span class="profile-list__meta">Department of Engineering, University of Cambridge</span></span></li>
 </ul></section>
 
-<p style="margin-top:2rem;"><a class="btn btn--primary" href="/publications/">All publications</a> <a class="btn" href="https://scholar.google.com/citations?user=OL_fj-YAAAAJ&hl=en">Google Scholar</a> <a class="btn" href="https://github.com/Yunbo-max">GitHub</a></p>
+Academic Service
+---------------
+<section class="profile-list-section profile-list-section--awards" aria-label="Academic service"><ul class="profile-list">
+  <li class="profile-list__item"><time class="profile-list__date">Conference</time><span class="profile-list__content"><span class="profile-list__title">Reviewer</span><span class="profile-list__meta">NeurIPS · AAAI · ICLR</span></span></li>
+  <li class="profile-list__item"><time class="profile-list__date">Journal</time><span class="profile-list__content"><span class="profile-list__title">Reviewer</span><span class="profile-list__meta">IEEE TNNLS · TKDE · TIFS · TDSC · TMC · TSMC · TFS · ACM TKDD</span></span></li>
+</ul></section>
