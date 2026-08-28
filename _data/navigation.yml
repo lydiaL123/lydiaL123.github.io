@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: /files/Yunbo_Long_CV.pdf
+    url: /cv.html
 
   - title: "Publications"
     url: /publications/
