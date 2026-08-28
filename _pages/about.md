@@ -7,9 +7,7 @@ redirect_from:
 ---
 {% include about-homepage-header.html %}
 
-I am a PhD candidate in the [Department of Engineering](https://www.eng.cam.ac.uk/) at the University of Cambridge. My research focuses on generative modeling and representation learning across language, tabular, graph, and multimodal data, with particular interests in diffusion models, latent spaces, data distillation, and intelligent agents.
-
-Previously, I completed an MPhil in Engineering at Cambridge, where I studied privacy-preserving personalized federated learning. I received my First-Class Honours engineering degree from the University of Birmingham.
+I am a PhD student at [MMLab@HKU](https://mmlab.hk/) (Sep 2026 – Aug 2030) with [Prof. Xihui Liu](https://xh-liu.github.io/). I completed an MPhil in Engineering at the University of Cambridge and received my B.Eng. degree from Xidian University (Sep 2022 – Jun 2026). I have also worked with CUATS, Fudan University, and the University of Bath.
 
 News
 ---------------
@@ -48,9 +46,12 @@ Selected Work
 Experience & Education
 ---------------
 <div class="experience-container">
-  <div class="experience-card"><div class="experience-logo" aria-hidden="true" style="display:grid;place-items:center;background:#eef3fa;font-weight:800;">CAM</div><div class="experience-info"><strong>University of Cambridge</strong><br>PhD Candidate, Engineering<br>Generative modeling and data-centric AI</div></div>
-  <div class="experience-card"><div class="experience-logo" aria-hidden="true" style="display:grid;place-items:center;background:#eef3fa;font-weight:800;">CAM</div><div class="experience-info"><strong>University of Cambridge</strong><br>MPhil, Engineering<br>Privacy-preserving federated learning</div></div>
-  <div class="experience-card"><div class="experience-logo" aria-hidden="true" style="display:grid;place-items:center;background:#f3f0f8;font-weight:800;">UoB</div><div class="experience-info"><strong>University of Birmingham</strong><br>BEng, First-Class Honours<br>Engineering and autonomous robotics</div></div>
+  <div class="experience-card"><div class="experience-logo" aria-hidden="true" style="display:grid;place-items:center;background:#eef3fa;font-weight:800;">HKU</div><div class="experience-info"><strong>The University of Hong Kong</strong><br>PhD Student, MMLab<br>Sep 2026 – Aug 2030 · with Prof. Xihui Liu</div></div>
+  <div class="experience-card"><div class="experience-logo" aria-hidden="true" style="display:grid;place-items:center;background:#eef3fa;font-weight:800;">CAM</div><div class="experience-info"><strong>University of Cambridge</strong><br>MPhil, Engineering</div></div>
+  <div class="experience-card"><div class="experience-logo" aria-hidden="true" style="display:grid;place-items:center;background:#f3f0f8;font-weight:800;">XDU</div><div class="experience-info"><strong>Xidian University</strong><br>B.Eng.<br>Sep 2022 – Jun 2026</div></div>
+  <div class="experience-card"><div class="experience-logo" aria-hidden="true" style="display:grid;place-items:center;background:#eef7f2;font-weight:800;">CUATS</div><div class="experience-info"><strong>CUATS</strong><br>Research collaboration</div></div>
+  <div class="experience-card"><div class="experience-logo" aria-hidden="true" style="display:grid;place-items:center;background:#f8f1ed;font-weight:800;">FDU</div><div class="experience-info"><strong>Fudan University</strong><br>Research collaboration</div></div>
+  <div class="experience-card"><div class="experience-logo" aria-hidden="true" style="display:grid;place-items:center;background:#f2f0f8;font-weight:800;">BATH</div><div class="experience-info"><strong>University of Bath</strong><br>Research collaboration</div></div>
 </div>
 
 Awards & Service
