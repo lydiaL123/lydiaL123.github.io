@@ -44,7 +44,6 @@ Publications
   <button class="pub-button pub-button--graph-learning" type="button" data-filter="graph-learning" aria-pressed="false">Graph Learning</button>
   <span class="pub-legend-group" role="group" aria-label="Publication distinction filters">
     <button class="pub-legend" type="button" data-filter="first" aria-pressed="false" title="Show first- or core-author papers"><span class="pub-legend__swatch" aria-hidden="true"></span>First / Core</button>
-    <button class="pub-legend" type="button" data-filter="selected" aria-pressed="false" title="Show selected publications"><span class="pub-legend__swatch pub-legend__swatch--selected" aria-hidden="true"></span>Selected</button>
   </span>
 </div>
 
