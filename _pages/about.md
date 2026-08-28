@@ -7,9 +7,11 @@ redirect_from:
 ---
 {% include about-homepage-header.html %}
 
-I am **Yuhan (Lydia) Liu**, a University of Cambridge graduate working at the intersection of **LLM agents, interaction systems, and economic decision-making**. My recent research studies emotion-aware and persona-grounded language-model agents for negotiation and high-stakes decision support.
+I am **Yuhan (Lydia) Liu**, currently pursuing a PhD in Engineering at the University of Cambridge. My academic background spans engineering, finance, and economics.
 
-I completed my MPhil in Finance and Economics at the University of Cambridge. My dissertation integrated LSTM predictions into momentum strategies to improve risk-adjusted foreign-exchange returns. Previously, I earned a Bachelor of Commerce in Finance and Economics from the University of Toronto with a GPA of 3.96/4.00.
+I completed my MPhil in Finance and Economics at Cambridge. My dissertation integrated LSTM predictions into momentum strategies to improve risk-adjusted foreign-exchange returns, comparing the resilience and risk profiles of carry-trade and purchasing-power-parity approaches.
+
+Previously, I earned a Bachelor of Commerce in Finance and Economics from the University of Toronto with a GPA of 3.96/4.00. Alongside my studies, I gained professional experience in corporate finance and economic data analysis at Société Générale CIB and the London Stock Exchange Group.
 
 News
 ---------------
