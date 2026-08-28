@@ -81,43 +81,25 @@ author_profile: true
 }
 </style>
 
-You can also find all my articles on [Google Scholar](https://scholar.google.com/citations?user=OL_fj-YAAAAJ&hl=en).
+You can also find all my articles on [Google Scholar](https://scholar.google.com/citations?user=-6VxvDUAAAAJ&hl=en).
 
 ## Publications
 
 <div class="publication-item">
   <div class="publication-image">
-    <img src="/images/publications/detection.png" alt="aiXiv Paper">
+    <img src="/images/rabbit-scholar.png" alt="Adaptive Interviewing">
   </div>
   <div class="publication-content">
-    <div class="publication-title">Leveraging unsupervised learning for cost-effective visual anomaly detection</div>
-    <div class="publication-authors">Yunbo Long, Zhengyang Ling, Sam Brook, Duncan McFarlane, Alexandra Brintrup</div>
-    <div class="publication-venue">IET Conference Proceedings CP885 2024 (11), 95-101</div>
-    <div class="publication-links">
-      <a href="[https://arxiv.org/pdf/2508.15126](https://digital-library.theiet.org/doi/pdf/10.1049/icp.2024.3491)" target="_blank">PDF</a>
-      <a href="[https://arxiv.org/abs/2508.15126](https://digital-library.theiet.org/doi/abs/10.1049/icp.2024.3491)" target="_blank">arXiv</a>
-    </div>
+    <div class="publication-title">Adaptive Interviewing for Persona Simulation in LLMs: Evidence-Grounded Reasoning Improves Decision Alignment</div>
+    <div class="publication-authors">Yuhan Liu*, R. Su*, et al.</div>
+    <div class="publication-venue">Under Review, 2026 · *Equal contribution</div>
   </div>
 </div>
 
+<div class="publication-item"><div class="publication-image"><img src="/images/publications/main/emomas.webp" alt="EmoMAS"></div><div class="publication-content"><div class="publication-title">EmoMAS: Emotion-Aware Multi-Agent System for High-Stakes Edge-Deployable Negotiation with Bayesian Orchestration</div><div class="publication-authors">Yunbo Long, Yuhan Liu, Liming Xu</div><div class="publication-venue">ACL 2026 · LLM Agent Track</div><div class="publication-links"><a href="https://arxiv.org/abs/2604.07003" target="_blank">arXiv</a></div></div></div>
 
-<!-- Template for additional publications - copy this structure for each paper -->
-<!--
-<div class="publication-item">
-  <div class="publication-image">
-    <img src="/images/publications/your-paper-image.png" alt="Paper Title">
-  </div>
-  <div class="publication-content">
-    <div class="publication-title">Your Paper Title</div>
-    <div class="publication-authors">Author names</div>
-    <div class="publication-venue">Conference/Journal Name, Year</div>
-    <div class="publication-links">
-      <a href="link-to-pdf" target="_blank">PDF</a>
-      <a href="link-to-arxiv" target="_blank">arXiv</a>
-      <a href="link-to-code" target="_blank">Code</a>
-      <a href="link-to-project" target="_blank">Project</a>
-    </div>
-  </div>
-</div>
--->
+<div class="publication-item"><div class="publication-image"><img src="/images/publications/main/emodebt.webp" alt="EmoDebt"></div><div class="publication-content"><div class="publication-title">EmoDebt: Bayesian-Optimized Emotional Intelligence for Strategic Agent-to-Agent Debt Recovery</div><div class="publication-authors">Yunbo Long, Yuhan Liu, Liming Xu, Alexandra Brintrup</div><div class="publication-venue">AAMAS 2026 · Main Track · Oral</div><div class="publication-links"><a href="https://arxiv.org/abs/2503.21080" target="_blank">arXiv</a></div></div></div>
 
+<div class="publication-item"><div class="publication-image"><img src="/images/publications/main/eqneg.webp" alt="EQ-Negotiator"></div><div class="publication-content"><div class="publication-title">EQ-Negotiator: Dynamic Emotional Personas Empower Small Language Models for Edge-Deployable Credit Negotiation</div><div class="publication-authors">Yuhan Liu, Yunbo Long</div><div class="publication-venue">NeurIPS 2025 · PersonaLLM · Poster</div><div class="publication-links"><a href="https://arxiv.org/abs/2511.03370" target="_blank">arXiv</a></div></div></div>
+
+<div class="publication-item"><div class="publication-image"><img src="/images/publications/main/emodebt.webp" alt="EvoEmo"></div><div class="publication-content"><div class="publication-title">EvoEmo: Evolved Emotional Policies for Multi-Turn Negotiation</div><div class="publication-authors">Yunbo Long, Liming Xu, B. Lucas, Yuhan Liu, et al.</div><div class="publication-venue">AAMAS 2026 · Extended Abstract</div><div class="publication-links"><a href="https://arxiv.org/abs/2509.04310" target="_blank">arXiv</a></div></div></div>

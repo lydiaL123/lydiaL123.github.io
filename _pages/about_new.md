@@ -3,48 +3,23 @@ permalink: /about-legacy/
 title: "About Me"
 excerpt: "About Me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-Yunbo is a PhD candidate at the University of Cambridge focusing on unifying data understanding and generation through latent-space modeling with Diffusion-based Generative Models. His research develops principled frameworks that bridge representation learning and controllable generation across heterogeneous data regimes, including discrete (natural language), mixed-type tabular, structured relational/graph data, and emerging multimodal combinations. A central theme involves designing architectures and training objectives that faithfully capture semantics, uncertainty, structure, and cross-domain correspondences while maintaining computational and statistical efficiency.
+Yuhan (Lydia) Liu is a University of Cambridge graduate working at the intersection of LLM agents, interaction systems, and economic decision-making. Her recent research focuses on emotion-aware and persona-grounded language-model agents for negotiation and high-stakes decision support.
 
-Previously, Yunbo completed an MPhil in Engineering at the University of Cambridge, where his research focused on differentially private personalized clustering methods for federated learning. He earned a First-Class Honours degree in Engineering from the University of Birmingham, with his undergraduate thesis exploring deep reinforcement learning applications for autonomous robotic dismantling tasks.
+She completed an MPhil in Finance and Economics at the University of Cambridge and a Bachelor of Commerce in Finance and Economics at the University of Toronto.
 
-## 📢News
-- **December 2025**: *EmoDebt: Bayesian-Optimized Emotional Intelligence for Strategic Agent-to-Agent Debt Recovery* accepted at **AAMASS Main Track 2026** 🎉🎉🎉
-- **November 2025**: *Topological Federated Clustering via Gravitational Potential Fields under Local Differential Privacy* accepted at **AAAI Main Track 2026** 🎉🎉🎉
-- **November 2025**: *EQ-Negotiator: Dynamic Emotional Personas Empower Small Language Models for Edge-Deployable Credit Negotiation* accepted at **Neurips@PersonaLLM 2025** 🎉🎉🎉
-- **October 2025**: *EvoEmo: Towards Evolved Emotional Policies for LLM Agents in Multi-Turn Negotiation* submitted for review 🚀
-- **October 2025**: *EmoDebt: Bayesian-Optimized Emotional Intelligence for Strategic Agent-to-Agent Debt Recovery* submitted for review 🚀
-- **September 2025**: *ExpoTab: One-Step Mixed-Type Tabular Data Generation using Manifold Learning* submitted for review 🚀
-- **July 2025**: *LLM-TabLogic: Preserving Inter-Column Logical Relationships in Synthetic Tabular Data via Prompt-Guided Latent Diffusion* submitted for review 📄
-- **June 2025**: *Efficient and privacy-preserved link prediction via condensed graphs* published in **Expert Systems with Applications** 🎉
-- **May 2025**: *Random Walk Guided Hyperbolic Graph Distillation* (Y Long, L Xu, S Schoepf, A Brintrup) posted on **arXiv** 📄
-- **May 2025**: *Haplo-caller: A deep learning method for haplotype identification from mixed clonal samples* published in **VeriXiv** 🎉
-- **April 2025**: *PA-CFL: Privacy-Adaptive Clustered Federated Learning for Transformer-Based Sales Forecasting on Heterogeneous Retail Data* under review 📄
-- **March 2025**: *Evaluating inter-column logical relationships in synthetic tabular data generation* accepted as **ICLR 2025 Tiny Paper** 🎉
-- **January 2025**: *Leveraging synthetic data to tackle machine learning challenges in supply chains* accepted in **IJPR** 🎉
-- **October 2024**: *Leveraging unsupervised learning for cost-effective visual anomaly detection* accepted 🎉
+## 📢 News
+- **2026**: *EmoMAS* accepted to **ACL 2026 LLM Agent Track** 🎉
+- **2026**: *EmoDebt* accepted to **AAMAS 2026 Main Track** as an oral presentation 🎉
+- **2026**: *EvoEmo* accepted to **AAMAS 2026 Extended Abstract Track** 🎉
+- **2025**: *EQ-Negotiator* presented at **NeurIPS 2025 PersonaLLM Workshop** 🎉
 
-## 💰 Funding & Awards
-- **Conference Scholarship**, Department of Engineering, University of Cambridge
-- **Queens' College PhD Scholarship**, University of Cambridge
+## 💰 Awards
+- **Adams Gold Medal Graduation Award**, University of Toronto
+- **Grace Victoria Becker Scholarship**, University of Toronto
+- **Four-year Dean's List Scholar** and **UT Scholar Award**
 
-## 👨‍💻 Academic Service
-
-### Journal Reviewer (2025)
-- 🏷️ IEEE Transactions on Neural Networks and Learning Systems (TNNLS) ×3
-- 🏷️ IEEE Transactions on Knowledge and Data Engineering (TKDE) ×5  
-- 🏷️ IEEE Transactions on Information Forensics & Security (TIFS) ×2
-- 🏷️ IEEE Transactions on Dependable and Secure Computing (TDSC) ×2
-- 🏷️ IEEE Transactions on Mobile Computing (TMC) ×2
-- 🏷️ IEEE Transactions on Systems, Man and Cybernetics (TSMC) ×1
-- 🏷️ IEEE Transactions on Fuzzy Systems (TFS) ×1
-- 🏷️ ACM Transactions on Knowledge Discovery from Data (TKDD) ×1
-
-### Conference Reviewer (2025)
-- 🎯 NeurIPS
-- 🎯 AAAI  
-- 🎯 ICLR
+## 👩‍💼 Leadership
+- Director of Corporate Relations, Rotman Commerce Non-Profit Network
+- Vice President, University of Toronto ViewFinder Photography Club
