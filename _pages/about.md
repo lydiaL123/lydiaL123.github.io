@@ -16,6 +16,8 @@ I am a PhD student at the University of Cambridge, supervised by Prof. Alexandra
 News
 ---------------
 <section class="profile-list-section profile-list-section--news" aria-label="Latest news"><ul class="profile-list">
+  <li class="profile-list__item"><time class="profile-list__date" datetime="2026">2026</time><span class="profile-list__content"><span class="profile-list__title">EmoDistill accepted to EMNLP 2026 LLM Agents Track 🎉</span></span></li>
+  <li class="profile-list__item"><time class="profile-list__date" datetime="2026">2026</time><span class="profile-list__content"><span class="profile-list__title">VeriTrace accepted to EMNLP 2026 LLM Agents Track 🎉</span></span></li>
   <li class="profile-list__item"><time class="profile-list__date" datetime="2025-12">Dec 2025</time><span class="profile-list__content"><span class="profile-list__title">EmoDebt accepted to AAMAS 2026 Main Track 🎉</span></span></li>
   <li class="profile-list__item"><time class="profile-list__date" datetime="2025-11">Nov 2025</time><span class="profile-list__content"><span class="profile-list__title">Topological Federated Clustering accepted to AAAI 2026 Main Track 🎉</span></span></li>
   <li class="profile-list__item"><time class="profile-list__date" datetime="2025-11">Nov 2025</time><span class="profile-list__content"><span class="profile-list__title">EQ-Negotiator accepted to NeurIPS 2025 PersonaLLM Workshop 🎉</span></span></li>
