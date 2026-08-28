@@ -7,11 +7,11 @@ redirect_from:
 ---
 {% include about-homepage-header.html %}
 
-I am a PhD student in the [Department of Engineering](https://www.eng.cam.ac.uk/) at the University of Cambridge. My research focuses on generative AI, latent-space modeling, synthetic data, graph learning, and intelligent agents.
+I received my First-Class Honours B.Eng. from the University of Birmingham.
 
-Previously, I completed an MPhil in Engineering at the University of Cambridge, where I studied privacy-preserving personalized federated learning.
+I completed my MPhil in Engineering at the University of Cambridge, supported by [Flower Labs](https://flower.ai/).
 
-I received my First-Class Honours B.Eng. degree from the University of Birmingham, where my undergraduate research explored deep reinforcement learning for autonomous robotic systems.
+I am a PhD student at the University of Cambridge, supervised by Prof. Alexandra Brintrup at the [Supply Chain Data Hub](https://supplychaindatahub.org/).
 
 News
 ---------------
@@ -50,9 +50,9 @@ Selected Work
 Experience & Education
 ---------------
 <div class="experience-container">
-  <div class="experience-card"><div class="experience-logo" aria-hidden="true" style="display:grid;place-items:center;background:#eef3fa;font-weight:800;">CAM</div><div class="experience-info"><strong>University of Cambridge</strong><br>PhD Student, Engineering<br>Generative AI and data-centric machine learning</div></div>
-  <div class="experience-card"><div class="experience-logo" aria-hidden="true" style="display:grid;place-items:center;background:#eef3fa;font-weight:800;">CAM</div><div class="experience-info"><strong>University of Cambridge</strong><br>MPhil, Engineering<br>Privacy-preserving federated learning</div></div>
-  <div class="experience-card"><div class="experience-logo" aria-hidden="true" style="display:grid;place-items:center;background:#f3f0f8;font-weight:800;">UoB</div><div class="experience-info"><strong>University of Birmingham</strong><br>B.Eng., First-Class Honours<br>Engineering and autonomous robotics</div></div>
+  <div class="experience-card"><div class="experience-logo" aria-hidden="true" style="display:grid;place-items:center;background:#eef3fa;font-weight:800;">CAM</div><div class="experience-info"><strong>University of Cambridge</strong><br>PhD Student</div></div>
+  <div class="experience-card"><div class="experience-logo" aria-hidden="true" style="display:grid;place-items:center;background:#eef3fa;font-weight:800;">CAM</div><div class="experience-info"><strong>University of Cambridge</strong><br>MPhil in Engineering</div></div>
+  <div class="experience-card"><div class="experience-logo" aria-hidden="true" style="display:grid;place-items:center;background:#f3f0f8;font-weight:800;">UoB</div><div class="experience-info"><strong>University of Birmingham</strong><br>B.Eng., First-Class Honours</div></div>
 </div>
 
 Awards & Service
