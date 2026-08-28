@@ -23,6 +23,17 @@
         border-radius: 8px;
         object-fit: contain;
     }
+    .experience-logo--crop {
+        overflow: hidden;
+        flex: 0 0 60px;
+        background: #fff;
+    }
+    .experience-logo--crop img {
+        display: block;
+        width: auto;
+        max-width: none;
+        height: 100%;
+    }
     .experience-info {
         font-family: "Segoe UI", sans-serif;
         min-width: 0;
@@ -93,6 +104,12 @@
     }
     .pub-category-dot--rl-agents {
         background: #d88992;
+    }
+    .pub-category-dot--data-generation {
+        background: #aaa1b2;
+    }
+    .pub-category-dot--graph-learning {
+        background: #88b7a2;
     }
     .publication-card[hidden] {
         display: none;
@@ -327,6 +344,34 @@
     }
     .pub-button--rl-agents.active::before {
         background: #d88992;
+    }
+    .pub-button--data-generation {
+        color: #7f7788;
+        border-color: rgba(127, 119, 136, 0.20);
+        background: rgba(249, 248, 250, 0.82);
+    }
+    .pub-button--data-generation:hover,
+    .pub-button--data-generation.active {
+        color: #6d6576;
+        border-color: rgba(127, 119, 136, 0.34);
+        background: #f3f1f5;
+    }
+    .pub-button--data-generation.active::before {
+        background: #aaa1b2;
+    }
+    .pub-button--graph-learning {
+        color: #5f8977;
+        border-color: rgba(95, 137, 119, 0.22);
+        background: rgba(244, 250, 247, 0.82);
+    }
+    .pub-button--graph-learning:hover,
+    .pub-button--graph-learning.active {
+        color: #4d7564;
+        border-color: rgba(95, 137, 119, 0.36);
+        background: #eef7f2;
+    }
+    .pub-button--graph-learning.active::before {
+        background: #88b7a2;
     }
     .pub-legend-group {
         display: inline-flex;
@@ -826,6 +871,7 @@
         .experience-container { grid-template-columns: minmax(0, 1fr); gap: 12px; }
         .experience-card { align-items: flex-start; padding: 14px; }
         .experience-logo { width: 52px; height: 52px; margin-right: 14px; flex: 0 0 52px; }
+        .experience-logo--crop { flex-basis: 52px; }
         .experience-info { line-height: 1.45; overflow-wrap: anywhere; }
         .publication-card { display: block; padding: 12px; margin-bottom: 14px; border-radius: 12px; }
         .pub-category-dots { display: none; }
