@@ -55,7 +55,7 @@ Experience
 ---------------
 <div class="experience-container">
   <div class="experience-card"><img class="experience-logo" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Coat_of_Arms_of_the_University_of_Cambridge.svg" alt="University of Cambridge crest"><div class="experience-info"><strong>University of Cambridge</strong><br>2022 – 2026<br>MPhil &amp; PhD, Department of Engineering</div></div>
-  <div class="experience-card"><img class="experience-logo" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Shield_of_the_University_of_Birmingham.svg" alt="University of Birmingham crest"><div class="experience-info"><strong>University of Birmingham</strong><br>2020 – 2022<br>B.Eng., First-Class Honours · Robotics Lab</div></div>
+  <div class="experience-card"><img class="experience-logo" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Shield_of_the_University_of_Birmingham.svg" alt="University of Birmingham crest"><div class="experience-info"><strong>University of Birmingham</strong><br>2020 – 2022<br>B.Eng., First-Class Honours · Research Assistant, Robotics Lab</div></div>
   <div class="experience-card"><img class="experience-logo" src="https://www.whut.edu.cn/material/images/logo.svg" alt="Wuhan University of Technology logo"><div class="experience-info"><strong>Wuhan University of Technology</strong><br>2018 – 2020</div></div>
   <div class="experience-card"><img class="experience-logo" src="https://www.shenzhong.net/pages/common/images/logo.png" alt="Shenzhen Middle School logo"><div class="experience-info"><strong>Shenzhen Middle School</strong><br>2015 – 2018</div></div>
 </div>
@@ -65,7 +65,7 @@ Awards
 <section class="profile-list-section profile-list-section--awards" aria-label="Awards"><ul class="profile-list">
   <li class="profile-list__item"><time class="profile-list__date">🏆</time><span class="profile-list__content"><span class="profile-list__title">Queens' College PhD Scholarship</span><span class="profile-list__meta">University of Cambridge</span></span></li>
   <li class="profile-list__item"><time class="profile-list__date">🏆</time><span class="profile-list__content"><span class="profile-list__title">Conference Scholarship</span><span class="profile-list__meta">Department of Engineering, University of Cambridge</span></span></li>
-  <li class="profile-list__item"><time class="profile-list__date">🏆</time><span class="profile-list__content"><span class="profile-list__title">First-Class Honours</span><span class="profile-list__meta">University of Birmingham</span></span></li>
+  <li class="profile-list__item"><time class="profile-list__date">🏆</time><span class="profile-list__content"><span class="profile-list__title">Frank Wallace Scholarship</span><span class="profile-list__meta">1st in academic performance, Years 2–3 · University of Birmingham</span></span></li>
 </ul></section>
 
 Academic Service
