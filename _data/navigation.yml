@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: https://github.com/lydiaL123/cv/raw/refs/heads/main/CV_Yuhan%20Liu.pdf
+    url: /cv.html
 
   - title: "Publications"
     url: /publications/
