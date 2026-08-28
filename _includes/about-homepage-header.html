@@ -488,6 +488,18 @@
         background-clip: text;
         -webkit-text-fill-color: transparent;
     }
+    .main-heading__spark {
+        display: inline-block;
+        color: #d79043;
+        -webkit-text-fill-color: #d79043;
+        transform-origin: center;
+        animation: homepage-spark 2.4s ease-in-out infinite;
+        text-shadow: 0 0 0 rgba(215, 144, 67, 0);
+    }
+    @keyframes homepage-spark {
+        0%, 100% { transform: rotate(-8deg) scale(0.9); text-shadow: 0 0 0 rgba(215, 144, 67, 0); }
+        50% { transform: rotate(10deg) scale(1.18); text-shadow: 0 0 14px rgba(215, 144, 67, 0.55); }
+    }
     div.markdown-body a,
     a {
         text-decoration: none !important;
@@ -769,6 +781,9 @@
         .kindred-slideshow__dot {
             transition: none;
         }
+        .main-heading__spark {
+            animation: none;
+        }
     }
     /* Responsive homepage cards: stack rich media above copy on narrow screens. */
     @media (max-width: 767px) {
@@ -795,4 +810,4 @@
     }
 </style>
 
-<h1 class="main-heading">Hi there 👋 Welcome to my homepage!</h1>
+<h1 class="main-heading">Hi there <span class="main-heading__spark" aria-hidden="true">✦</span> Welcome to my homepage!</h1>
