@@ -78,5 +78,6 @@ Leadership &amp; Interests
 <section class="profile-list-section profile-list-section--awards" aria-label="Leadership and interests"><ul class="profile-list">
   <li class="profile-list__item"><time class="profile-list__date">2020–22</time><span class="profile-list__content"><span class="profile-list__title">Director of Corporate Relations</span><span class="profile-list__meta">Rotman Commerce Non-Profit Network</span></span></li>
   <li class="profile-list__item"><time class="profile-list__date">2020–23</time><span class="profile-list__content"><span class="profile-list__title">Vice President</span><span class="profile-list__meta">University of Toronto ViewFinder Photography Club</span></span></li>
-  <li class="profile-list__item"><time class="profile-list__date">Interests</time><span class="profile-list__content"><span class="profile-list__title">Psychology · Chinese Zither · French · Cantonese · Hiking</span></span></li>
+  <li class="profile-list__item"><time class="profile-list__date">French</time><span class="profile-list__content"><span class="profile-list__title">DELF B2 — Diplôme d’études en langue française</span><span class="profile-list__meta">CEFR Level B2 · French Ministry of National Education</span></span></li>
+  <li class="profile-list__item"><time class="profile-list__date">Interests</time><span class="profile-list__content"><span class="profile-list__title">Psychology · Chinese Zither · Cantonese · Hiking</span></span></li>
 </ul></section>
