@@ -1,7 +1,6 @@
 const PUBLICATION_CATEGORIES = {
-  comprehension: 'Comprehension',
-  imagination: 'Imagination',
-  action: 'Action'
+  'llm-agents': 'LLM Agents',
+  'rl-agents': 'RL Agents'
 };
 
 function addPublicationCategoryDots(publication) {

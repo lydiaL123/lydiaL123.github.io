@@ -34,32 +34,44 @@ Research
   <div class="experience-card"><div class="experience-logo" aria-hidden="true" style="display:grid;place-items:center;background:#eef7f2;font-size:1.6rem;">⌁</div><div class="experience-info"><strong>Intelligent Agents</strong><br>Multimodal GUI agents, causal latent memory, and long-horizon decision making.</div></div>
 </div>
 
-Publication
+Publications
 ---------------
-<div class="publication-card featured first-author"><div class="publication-card__layout">
+<div class="pub-button-container">
+  <button class="pub-button pub-button--all active" type="button" data-filter="all" aria-pressed="true">All</button>
+  <button class="pub-button pub-button--llm-agents" type="button" data-filter="llm-agents" aria-pressed="false">LLM Agents</button>
+  <button class="pub-button pub-button--rl-agents" type="button" data-filter="rl-agents" aria-pressed="false">RL Agents</button>
+  <span class="pub-legend-group" role="group" aria-label="Publication distinction filters">
+    <button class="pub-legend" type="button" data-filter="first" aria-pressed="false" title="Show first- or core-author papers"><span class="pub-legend__swatch" aria-hidden="true"></span>First / Core</button>
+    <button class="pub-legend" type="button" data-filter="selected" aria-pressed="false" title="Show selected publications"><span class="pub-legend__swatch pub-legend__swatch--selected" aria-hidden="true"></span>Selected</button>
+  </span>
+</div>
+
+<div class="publication-card featured first-author" data-topics="llm-agents rl-agents" data-date="2026-08-01"><div class="publication-card__layout">
   <img src="/images/publications/main/emodistill.png" alt="EmoDistill overview" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
   <div><strong>EmoDistill</strong><br><i><span class="self-author">Yunbo Long</span> et al.</i><br>Offline emotion-skill distillation for adversarial negotiation agents.<div class="pub-meta-row"><span class="pub-venue">EMNLP 2026 · LLM Agents Track</span><span class="pub-links"><a href="https://arxiv.org/abs/2605.26785"><em>[arXiv]</em></a></span></div></div>
 </div></div>
 
-<div class="publication-card"><div class="publication-card__layout">
+<div class="publication-card featured" data-topics="llm-agents" data-date="2026-08-01"><div class="publication-card__layout">
   <img src="/images/publications/main/veritrace.png" alt="VeriTrace overview" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
   <div><strong>VeriTrace</strong><br><i>Hao Zhao, <span class="self-author">Yunbo Long</span> et al.</i><br>Evolving cognitive graphs for reliable deep-research agents.<div class="pub-meta-row"><span class="pub-venue">EMNLP 2026 · LLM Agents Track</span><span class="pub-links"><a href="https://arxiv.org/abs/2605.26081"><em>[arXiv]</em></a></span></div></div>
 </div></div>
 
-<div class="publication-card first-author"><div class="publication-card__layout">
+<div class="publication-card featured first-author" data-topics="llm-agents" data-date="2026-04-01"><div class="publication-card__layout">
   <img src="/images/publications/main/emomas.png" alt="EmoMAS overview" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
   <div><strong>EmoMAS</strong><br><i><span class="self-author">Yunbo Long</span> et al.</i><br>Bayesian orchestration for emotion-aware edge negotiation agents.<div class="pub-meta-row"><span class="pub-venue">ACL 2026 · LLM Agents Track</span><span class="pub-links"><a href="https://arxiv.org/abs/2604.07003"><em>[arXiv]</em></a></span></div></div>
 </div></div>
 
-<div class="publication-card first-author"><div class="publication-card__layout">
+<div class="publication-card first-author" data-topics="llm-agents rl-agents" data-date="2025-12-01"><div class="publication-card__layout">
   <img src="/images/publications/main/emodebt.png" alt="EmoDebt overview" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
   <div><strong>EmoDebt</strong><br><i><span class="self-author">Yunbo Long</span> et al.</i><br>Emotion-aware strategic reasoning for agent-to-agent debt recovery.<div class="pub-meta-row"><span class="pub-venue">AAMAS 2026 · Main Track</span><span class="pub-links"><a href="https://arxiv.org/abs/2503.21080"><em>[arXiv]</em></a></span></div></div>
 </div></div>
 
-<div class="publication-card first-author"><div class="publication-card__layout">
+<div class="publication-card first-author" data-topics="" data-date="2025-11-01"><div class="publication-card__layout">
   <img src="/images/publications/main/topofc.png" alt="TopoFC overview" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
   <div><strong>TopoFC</strong><br><i><span class="self-author">Yunbo Long</span> et al.</i><br>One-shot private federated clustering with gravitational potential fields.<div class="pub-meta-row"><span class="pub-venue">AAAI 2026 · Main Track</span><span class="pub-links"><a href="https://arxiv.org/abs/2512.00849"><em>[arXiv]</em></a></span></div></div>
 </div></div>
+
+<script src="/assets/js/show_publications.js"></script>
 
 Experience
 ---------------
