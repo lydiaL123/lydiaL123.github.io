@@ -16,8 +16,9 @@ I received my First-Class Honours B.Eng. from the University of Birmingham, supe
 News
 ---------------
 <section class="profile-list-section profile-list-section--news" aria-label="Latest news"><ul class="profile-list">
-  <li class="profile-list__item"><time class="profile-list__date" datetime="2026">2026</time><span class="profile-list__content"><span class="profile-list__title">EmoDistill accepted to EMNLP 2026 LLM Agents Track 🎉</span></span></li>
-  <li class="profile-list__item"><time class="profile-list__date" datetime="2026">2026</time><span class="profile-list__content"><span class="profile-list__title">VeriTrace accepted to EMNLP 2026 LLM Agents Track 🎉</span></span></li>
+  <li class="profile-list__item"><time class="profile-list__date" datetime="2026-08">Aug 2026</time><span class="profile-list__content"><span class="profile-list__title">EmoDistill accepted to EMNLP 2026 LLM Agents Track 🎉</span></span></li>
+  <li class="profile-list__item"><time class="profile-list__date" datetime="2026-08">Aug 2026</time><span class="profile-list__content"><span class="profile-list__title">VeriTrace accepted to EMNLP 2026 LLM Agents Track 🎉</span></span></li>
+  <li class="profile-list__item"><time class="profile-list__date" datetime="2026-04">Apr 2026</time><span class="profile-list__content"><span class="profile-list__title">EmoMAS accepted to ACL 2026 Main Conference (Long Papers) 🎉</span></span></li>
   <li class="profile-list__item"><time class="profile-list__date" datetime="2025-12">Dec 2025</time><span class="profile-list__content"><span class="profile-list__title">EmoDebt accepted to AAMAS 2026 Main Track 🎉</span></span></li>
   <li class="profile-list__item"><time class="profile-list__date" datetime="2025-11">Nov 2025</time><span class="profile-list__content"><span class="profile-list__title">Topological Federated Clustering accepted to AAAI 2026 Main Track 🎉</span></span></li>
   <li class="profile-list__item"><time class="profile-list__date" datetime="2025-11">Nov 2025</time><span class="profile-list__content"><span class="profile-list__title">EQ-Negotiator accepted to NeurIPS 2025 PersonaLLM Workshop 🎉</span></span></li>
