@@ -7,9 +7,9 @@ redirect_from:
 ---
 {% include about-homepage-header.html %}
 
-I am a PhD student in the Department of Engineering at the University of Cambridge, supervised by [Prof. Alexandra Brintrup](https://www.eng.cam.ac.uk/profiles/ab702) at the [DeepChain AI Lab](https://supplychaindatahub.org/).
+I am a PhD student in the Department of Engineering at the University of Cambridge, supervised by [Prof. Alexandra Brintrup](https://www.eng.cam.ac.uk/profiles/ab702) at [SCAIL](https://supplychaindatahub.org/).
 
-I completed my MPhil in Engineering at the University of Cambridge, supported by [Flower Labs](https://flower.ai/) and supervised by [Prof. Nicholas Lane](https://scholar.google.com/citations?user=IleoLUgAAAAJ&hl=en).
+I completed my MPhil in Engineering at the University of Cambridge, supported by [Flower Labs](https://flower.ai/) and [SCAIL](https://supplychaindatahub.org/).
 
 I received my First-Class Honours B.Eng. from the University of Birmingham, supervised by [Dr Yongjing Wang](https://www.birmingham.ac.uk/staff/profiles/mechanical/wang-yongjing) at the [Robotics Lab](https://yjwang.net/).
 
