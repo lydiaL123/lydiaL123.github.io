@@ -65,6 +65,7 @@ Awards
 <section class="profile-list-section profile-list-section--awards" aria-label="Awards"><ul class="profile-list">
   <li class="profile-list__item"><time class="profile-list__date">🏆</time><span class="profile-list__content"><span class="profile-list__title">Queens' College PhD Scholarship</span><span class="profile-list__meta">University of Cambridge</span></span></li>
   <li class="profile-list__item"><time class="profile-list__date">🏆</time><span class="profile-list__content"><span class="profile-list__title">Conference Scholarship</span><span class="profile-list__meta">Department of Engineering, University of Cambridge</span></span></li>
+  <li class="profile-list__item"><time class="profile-list__date">🏆</time><span class="profile-list__content"><span class="profile-list__title">First-Class Honours</span><span class="profile-list__meta">University of Birmingham</span></span></li>
 </ul></section>
 
 Academic Service
