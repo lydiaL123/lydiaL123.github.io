@@ -24,10 +24,9 @@ Experience
 ---------------
 <div class="experience-container">
   <div class="experience-card"><img class="experience-logo" src="/images/institutions/cambridge.svg" alt="University of Cambridge crest" loading="lazy" decoding="async"><div class="experience-info"><strong>University of Cambridge</strong><br>2023 – 2025<br>MPhil, Finance and Economics</div></div>
-  <div class="experience-card"><div class="experience-info"><strong>University of Toronto</strong><br>2019 – 2023<br>B.Com., Finance and Economics · GPA 3.96/4.00</div></div>
-  <div class="experience-card"><div class="experience-info"><strong>Société Générale CIB</strong><br>2024<br>Corporate Finance Analyst · Trade Commodity Finance</div></div>
-  <div class="experience-card"><div class="experience-info"><strong>London Stock Exchange Group</strong><br>2023<br>Business &amp; Economic Data Analyst</div></div>
-  <div class="experience-card"><div class="experience-info"><strong>Qian He Capital Management</strong><br>2021<br>Investment Summer Analyst</div></div>
+  <div class="experience-card"><img class="experience-logo" src="/images/institutions/societe-generale.svg" alt="Société Générale logo" loading="lazy" decoding="async"><div class="experience-info"><strong>Société Générale CIB</strong><br>2024<br>Corporate Finance Analyst · Trade Commodity Finance</div></div>
+  <div class="experience-card"><img class="experience-logo" src="/images/institutions/lseg.svg" alt="London Stock Exchange Group logo" loading="lazy" decoding="async"><div class="experience-info"><strong>London Stock Exchange Group</strong><br>2023<br>Business &amp; Economic Data Analyst</div></div>
+  <div class="experience-card"><img class="experience-logo" src="/images/institutions/toronto.png" alt="University of Toronto crest" loading="lazy" decoding="async"><div class="experience-info"><strong>University of Toronto</strong><br>2019 – 2023<br>B.Com., Finance and Economics · GPA 3.96/4.00</div></div>
 </div>
 
 Publications
