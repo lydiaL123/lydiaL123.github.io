@@ -37,18 +37,28 @@ Research
 Publication
 ---------------
 <div class="publication-card featured first-author"><div class="publication-card__layout">
-  <img src="/images/publications/graph.png" alt="Graph learning research" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
-  <div><strong>Random Walk Guided Hyperbolic Graph Distillation</strong><br><i><span class="self-author">Yunbo Long</span>, collaborators</i><br>Dataset distillation for graph learning in hyperbolic representation spaces.<div class="pub-meta-row"><span class="pub-venue">Preprint, 2025</span><span class="pub-links"><a href="https://scholar.google.com/citations?user=OL_fj-YAAAAJ&hl=en"><em>[Scholar]</em></a></span></div></div>
-</div></div>
-
-<div class="publication-card first-author"><div class="publication-card__layout">
-  <img src="/images/publications/detection.png" alt="Visual anomaly detection" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
-  <div><strong>Leveraging Unsupervised Learning for Cost-Effective Visual Anomaly Detection</strong><br><i><span class="self-author">Yunbo Long</span>, Zhengyang Ling, Sam Brook, Duncan McFarlane, Alexandra Brintrup</i><br>Cost-effective industrial visual anomaly detection using unsupervised learning.<div class="pub-meta-row"><span class="pub-venue">IET Conference Proceedings, 2024</span><span class="pub-links"><a href="https://digital-library.theiet.org/doi/abs/10.1049/icp.2024.3491"><em>[paper]</em></a></span></div></div>
+  <img src="/images/publications/main/emodistill.png" alt="EmoDistill overview" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
+  <div><strong>EmoDistill</strong><br><i><span class="self-author">Yunbo Long</span> et al.</i><br>Offline emotion-skill distillation for adversarial negotiation agents.<div class="pub-meta-row"><span class="pub-venue">EMNLP 2026 · LLM Agents Track</span><span class="pub-links"><a href="https://arxiv.org/abs/2605.26785"><em>[arXiv]</em></a></span></div></div>
 </div></div>
 
 <div class="publication-card"><div class="publication-card__layout">
-  <div style="width:200px;height:120px;display:grid;place-items:center;flex:0 0 auto;margin-right:20px;border-radius:8px;background:linear-gradient(135deg,#edf3fb,#f8eef2);font-weight:700;color:#65758b;">TANGO</div>
-  <div><strong>TANGO: Causal Latent Memory for Vision-Language GUI Agents</strong><br><i>Ongoing research</i><br>Matched latent-KV interventions and signed causal memory transport for delayed GUI decisions.<div class="pub-meta-row"><span class="pub-venue">Research project</span><span class="pub-links"><a href="https://github.com/Yunbo-max/trajflow-kv"><em>[code]</em></a></span></div></div>
+  <img src="/images/publications/main/veritrace.png" alt="VeriTrace overview" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
+  <div><strong>VeriTrace</strong><br><i>Hao Zhao, <span class="self-author">Yunbo Long</span> et al.</i><br>Evolving cognitive graphs for reliable deep-research agents.<div class="pub-meta-row"><span class="pub-venue">EMNLP 2026 · LLM Agents Track</span><span class="pub-links"><a href="https://arxiv.org/abs/2605.26081"><em>[arXiv]</em></a></span></div></div>
+</div></div>
+
+<div class="publication-card first-author"><div class="publication-card__layout">
+  <img src="/images/publications/main/emomas.png" alt="EmoMAS overview" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
+  <div><strong>EmoMAS</strong><br><i><span class="self-author">Yunbo Long</span> et al.</i><br>Bayesian orchestration for emotion-aware edge negotiation agents.<div class="pub-meta-row"><span class="pub-venue">ACL 2026 · LLM Agents Track</span><span class="pub-links"><a href="https://arxiv.org/abs/2604.07003"><em>[arXiv]</em></a></span></div></div>
+</div></div>
+
+<div class="publication-card first-author"><div class="publication-card__layout">
+  <img src="/images/publications/main/emodebt.png" alt="EmoDebt overview" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
+  <div><strong>EmoDebt</strong><br><i><span class="self-author">Yunbo Long</span> et al.</i><br>Emotion-aware strategic reasoning for agent-to-agent debt recovery.<div class="pub-meta-row"><span class="pub-venue">AAMAS 2026 · Main Track</span><span class="pub-links"><a href="https://arxiv.org/abs/2503.21080"><em>[arXiv]</em></a></span></div></div>
+</div></div>
+
+<div class="publication-card first-author"><div class="publication-card__layout">
+  <img src="/images/publications/main/topofc.png" alt="TopoFC overview" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
+  <div><strong>TopoFC</strong><br><i><span class="self-author">Yunbo Long</span> et al.</i><br>One-shot private federated clustering with gravitational potential fields.<div class="pub-meta-row"><span class="pub-venue">AAAI 2026 · Main Track</span><span class="pub-links"><a href="https://arxiv.org/abs/2512.00849"><em>[arXiv]</em></a></span></div></div>
 </div></div>
 
 Experience
