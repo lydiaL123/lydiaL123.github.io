@@ -5,9 +5,9 @@ excerpt: "About Me"
 author_profile: true
 ---
 
-Yuhan (Lydia) Liu is a University of Cambridge graduate working at the intersection of LLM agents, interaction systems, and economic decision-making. Her recent research focuses on emotion-aware and persona-grounded language-model agents for negotiation and high-stakes decision support.
+Yuhan Liu is currently pursuing a PhD in Engineering at the University of Cambridge and is a member of Queens’ College.
 
-She completed an MPhil in Finance and Economics at the University of Cambridge and a Bachelor of Commerce in Finance and Economics at the University of Toronto.
+She completed an MPhil in Finance and Economics at the University of Cambridge and a Bachelor of Commerce in Finance and Economics at Rotman Commerce, University of Toronto.
 
 ## 📢 News
 - **2026**: *EmoMAS* accepted to **ACL 2026 LLM Agent Track** 🎉

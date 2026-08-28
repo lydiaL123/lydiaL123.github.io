@@ -7,11 +7,11 @@ redirect_from:
 ---
 {% include about-homepage-header.html %}
 
-I am **Yuhan (Lydia) Liu**, currently pursuing a PhD in Engineering at the University of Cambridge. My academic background spans engineering, finance, and economics.
+I am **Yuhan Liu**, currently pursuing a PhD in Engineering at the University of Cambridge and am a member of Queens’ College.
 
-I completed my MPhil in Finance and Economics at Cambridge. My dissertation integrated LSTM predictions into momentum strategies to improve risk-adjusted foreign-exchange returns, comparing the resilience and risk profiles of carry-trade and purchasing-power-parity approaches.
+I completed an MPhil in Finance and Economics at the University of Cambridge.
 
-Previously, I earned a Bachelor of Commerce in Finance and Economics from the University of Toronto with a GPA of 3.96/4.00. Alongside my studies, I gained professional experience in corporate finance and economic data analysis at Société Générale CIB and the London Stock Exchange Group.
+Previously, I earned a Bachelor of Commerce in Finance and Economics from Rotman Commerce at the University of Toronto with a GPA of 3.96/4.00.
 
 News
 ---------------
@@ -25,10 +25,10 @@ News
 Experience
 ---------------
 <div class="experience-container">
-  <div class="experience-card"><img class="experience-logo" src="/images/institutions/cambridge.svg" alt="University of Cambridge crest" loading="lazy" decoding="async"><div class="experience-info"><strong>University of Cambridge</strong><br>2023 – 2025<br>MPhil, Finance and Economics<br>PhD in Engineering</div></div>
+  <div class="experience-card"><img class="experience-logo" src="/images/institutions/cambridge.svg" alt="University of Cambridge crest" loading="lazy" decoding="async"><div class="experience-info"><strong>University of Cambridge · Queens’ College</strong><br>2023 – 2025<br>MPhil, Finance and Economics<br>PhD in Engineering</div></div>
   <div class="experience-card"><a href="https://fr.linkedin.com/company/societegenerale-corporate-and-investment-banking" target="_blank" rel="noopener noreferrer" aria-label="Société Générale CIB on LinkedIn"><img class="experience-logo" src="/images/institutions/sgcib-linkedin.png" alt="Société Générale CIB logo" loading="lazy" decoding="async"></a><div class="experience-info"><strong>Société Générale CIB</strong><br>2024<br>Corporate Finance Analyst · Trade Commodity Finance</div></div>
   <div class="experience-card"><img class="experience-logo" src="/images/institutions/lseg.svg" alt="London Stock Exchange Group logo" loading="lazy" decoding="async"><div class="experience-info"><strong>London Stock Exchange Group</strong><br>2023<br>Business &amp; Economic Data Analyst</div></div>
-  <div class="experience-card"><a href="https://seeklogo.com/vector-logo/525642/university-of-toronto" target="_blank" rel="noopener noreferrer" aria-label="University of Toronto logo source"><img class="experience-logo" src="/images/institutions/toronto-seeklogo.png" alt="University of Toronto crest" loading="lazy" decoding="async"></a><div class="experience-info"><strong>University of Toronto</strong><br>2019 – 2023<br>B.Com., Finance and Economics · GPA 3.96/4.00</div></div>
+  <div class="experience-card"><a href="https://seeklogo.com/vector-logo/525642/university-of-toronto" target="_blank" rel="noopener noreferrer" aria-label="University of Toronto logo source"><img class="experience-logo" src="/images/institutions/toronto-seeklogo.png" alt="University of Toronto crest" loading="lazy" decoding="async"></a><div class="experience-info"><strong>Rotman Commerce · University of Toronto</strong><br>2019 – 2023<br>B.Com., Finance and Economics · GPA 3.96/4.00</div></div>
 </div>
 
 Publications
@@ -40,11 +40,6 @@ Publications
   <button class="pub-button pub-button--data-generation" type="button" data-filter="data-generation" aria-pressed="false">Persona Simulation</button>
   <span class="pub-legend-group" role="group" aria-label="Publication distinction filters"><button class="pub-legend" type="button" data-filter="first" aria-pressed="false"><span class="pub-legend__swatch" aria-hidden="true"></span>First / Core</button></span>
 </div>
-
-<div class="publication-card first-author" data-topics="llm-agents data-generation" data-date="2026-08-01"><div class="publication-card__layout">
-  <img src="/images/rabbit-scholar.png" alt="Adaptive Interviewing" width="200" height="120" fetchpriority="high" decoding="async" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">
-  <div><strong>Adaptive Interviewing for Persona Simulation in LLMs</strong><br><i><span class="self-author">Yuhan Liu<sup>*</sup></span>, R. Su<sup>*</sup>, et al.</i><br>Evidence-grounded reasoning for improved decision alignment in persona simulation.<div class="pub-meta-row"><span class="pub-venue">Under Review, 2026 · *Equal contribution</span></div></div>
-</div></div>
 
 <div class="publication-card" data-topics="llm-agents rl-agents" data-date="2026-04-01"><div class="publication-card__layout">
   <img src="/images/publications/main/emomas.webp" alt="EmoMAS overview" width="200" height="120" loading="lazy" decoding="async" style="width:200px;height:120px;object-fit:contain;margin-right:20px;border-radius:8px;background:#fff;">

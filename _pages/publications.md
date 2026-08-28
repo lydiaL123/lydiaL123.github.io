@@ -85,17 +85,6 @@ You can also find all my articles on [Google Scholar](https://scholar.google.com
 
 ## Publications
 
-<div class="publication-item">
-  <div class="publication-image">
-    <img src="/images/rabbit-scholar.png" alt="Adaptive Interviewing">
-  </div>
-  <div class="publication-content">
-    <div class="publication-title">Adaptive Interviewing for Persona Simulation in LLMs: Evidence-Grounded Reasoning Improves Decision Alignment</div>
-    <div class="publication-authors">Yuhan Liu*, R. Su*, et al.</div>
-    <div class="publication-venue">Under Review, 2026 · *Equal contribution</div>
-  </div>
-</div>
-
 <div class="publication-item"><div class="publication-image"><img src="/images/publications/main/emomas.webp" alt="EmoMAS"></div><div class="publication-content"><div class="publication-title">EmoMAS: Emotion-Aware Multi-Agent System for High-Stakes Edge-Deployable Negotiation with Bayesian Orchestration</div><div class="publication-authors">Yunbo Long, Yuhan Liu, Liming Xu</div><div class="publication-venue">ACL 2026 · LLM Agent Track</div><div class="publication-links"><a href="https://arxiv.org/abs/2604.07003" target="_blank">arXiv</a></div></div></div>
 
 <div class="publication-item"><div class="publication-image"><img src="/images/publications/main/emodebt.webp" alt="EmoDebt"></div><div class="publication-content"><div class="publication-title">EmoDebt: Bayesian-Optimized Emotional Intelligence for Strategic Agent-to-Agent Debt Recovery</div><div class="publication-authors">Yunbo Long, Yuhan Liu, Liming Xu, Alexandra Brintrup</div><div class="publication-venue">AAMAS 2026 · Main Track · Oral</div><div class="publication-links"><a href="https://arxiv.org/abs/2503.21080" target="_blank">arXiv</a></div></div></div>

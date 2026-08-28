@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuhan (Lydia) Liu"
+title                    : "Yuhan Liu"
 title_separator          : "-"
-name                     : &name "Yuhan (Lydia) Liu"
+name                     : &name "Yuhan Liu"
 description              : &description "LLM Agents, Interaction Systems, Finance and Economics"
 url                      : https://lydial123.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuhan (Lydia) Liu"
-  avatar           : "alpaca-scholar.png"
+  name             : "Yuhan Liu"
+  avatar           : "yuhan-wechat-avatar.jpg"
   bio              : "LLM Agents · Interaction Systems · Finance & Economics"
   location         : "Cambridge, UK"
   employer         :
