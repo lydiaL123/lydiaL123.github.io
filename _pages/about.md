@@ -21,8 +21,6 @@ News
   <li class="profile-list__item"><time class="profile-list__date" datetime="2025-11">Nov 2025</time><span class="profile-list__content"><span class="profile-list__title">EQ-Negotiator accepted to NeurIPS 2025 PersonaLLM Workshop 🎉</span></span></li>
   <li class="profile-list__item"><time class="profile-list__date" datetime="2025-06">Jun 2025</time><span class="profile-list__content"><span class="profile-list__title">Efficient and Privacy-Preserved Link Prediction published in Expert Systems with Applications 🎉</span></span></li>
   <li class="profile-list__item"><time class="profile-list__date" datetime="2025-03">Mar 2025</time><span class="profile-list__content"><span class="profile-list__title">Evaluating Inter-Column Logical Relationships accepted as an ICLR 2025 Tiny Paper 🎉</span></span></li>
-  <li class="profile-list__item"><time class="profile-list__date" datetime="2025-01">Jan 2025</time><span class="profile-list__content"><span class="profile-list__title">Leveraging Synthetic Data to Tackle Machine Learning Challenges in Supply Chains accepted in IJPR 🎉</span></span></li>
-  <li class="profile-list__item"><time class="profile-list__date" datetime="2024-10">Oct 2024</time><span class="profile-list__content"><span class="profile-list__title">Leveraging Unsupervised Learning for Cost-Effective Visual Anomaly Detection accepted 🎉</span></span></li>
 </ul></section>
 
 Research
