@@ -21,9 +21,9 @@ News
   <li class="profile-list__item"><time class="profile-list__date" datetime="2026-04">Apr 2026</time><span class="profile-list__content"><span class="profile-list__title">EmoMAS accepted to ACL 2026 Main Conference (Long Papers) 🎉</span></span></li>
   <li class="profile-list__item"><time class="profile-list__date" datetime="2025-12">Dec 2025</time><span class="profile-list__content"><span class="profile-list__title">EmoDebt accepted to AAMAS 2026 Main Track 🎉</span></span></li>
   <li class="profile-list__item"><time class="profile-list__date" datetime="2025-11">Nov 2025</time><span class="profile-list__content"><span class="profile-list__title">Topological Federated Clustering accepted to AAAI 2026 Main Track 🎉</span></span></li>
-  <li class="profile-list__item"><time class="profile-list__date" datetime="2025-11">Nov 2025</time><span class="profile-list__content"><span class="profile-list__title">EQ-Negotiator accepted to NeurIPS 2025 PersonaLLM Workshop 🎉</span></span></li>
+  <li class="profile-list__item"><time class="profile-list__date" datetime="2025-11">Nov 2025</time><span class="profile-list__content"><span class="profile-list__title">EQ-Negotiator accepted to NeurIPS2025@PersonaLLM 🎉</span></span></li>
   <li class="profile-list__item"><time class="profile-list__date" datetime="2025-06">Jun 2025</time><span class="profile-list__content"><span class="profile-list__title">Efficient and Privacy-Preserved Link Prediction published in Expert Systems with Applications 🎉</span></span></li>
-  <li class="profile-list__item"><time class="profile-list__date" datetime="2025-03">Mar 2025</time><span class="profile-list__content"><span class="profile-list__title">Evaluating Inter-Column Logical Relationships accepted as an ICLR 2025 Tiny Paper 🎉</span></span></li>
+  <li class="profile-list__item"><time class="profile-list__date" datetime="2025-03">Mar 2025</time><span class="profile-list__content"><span class="profile-list__title">Evaluating Inter-Column Logical Relationships accepted to ICLR2025@SynData 🎉</span></span></li>
 </ul></section>
 
 Research
