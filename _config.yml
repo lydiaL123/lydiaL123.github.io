@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuhan Liu"
 title_separator          : "-"
 name                     : &name "Yuhan Liu"
-description              : &description "LLM Agents, Interaction Systems, Finance and Economics"
+description              : &description "Il faut cultiver notre jardin. — Voltaire"
 url                      : https://lydial123.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lydiaL123/lydiaL123.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuhan Liu"
   avatar           : "yuhan-wechat-avatar.jpg"
-  bio              : "LLM Agents · Interaction Systems · Finance & Economics"
+  bio              : "« Il faut cultiver notre jardin. » — Voltaire"
   location         : "Cambridge, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
